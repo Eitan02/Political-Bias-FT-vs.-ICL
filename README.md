@@ -131,8 +131,6 @@ RUN_EXPERIMENT_2 = False
 
 A GPU is strongly recommended for the language-model experiments.
 
-The Gemma model is gated on Hugging Face, so running the Gemma ICL experiment requires accepting Google's Gemma terms and authenticating with a Hugging Face account that has access to `google/gemma-2-2b-it`.
-
 ## Notes and limitations
 
 - The final ICL evaluation keeps the parser and aggregation logic used during the original experiments for reproducibility.
