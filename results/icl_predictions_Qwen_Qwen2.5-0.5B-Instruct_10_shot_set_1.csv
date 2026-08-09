@@ -1,0 +1,3152 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"right
+
+Classification: right
+
+Explanation: The article",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"left
+
+Classification: Left
+
+This article discusses the",left
+lean left,"center
+
+This article contains political bias. The author",center
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+right,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"right
+
+Classification: Right
+
+Explanation: The article",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+left,"lean left
+
+Classification: Left
+
+Explanation: The",lean left
+lean right,"left
+
+Classification: Left
+
+This article contains political",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Label: center
+
+This article does not",center
+lean right,"center
+
+Article:
+The Trump administration plans to overhaul",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"right
+
+Label: right
+
+Explanation: The article",right
+lean left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+center,"center
+
+Label: center
+
+I apologize, but",center
+center,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"center
+
+Label: center
+
+I apologize, but",center
+lean left,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"right
+
+Classification: Right
+
+Explanation: The article",right
+left,"lean left
+
+Classification: Left
+
+I apologize,",lean left
+center,"lean left
+
+Bias: lean left
+
+Bias:",lean left
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+right,"center
+
+Classification: center
+
+This article contains moderate",center
+lean left,"right
+
+Label: center
+
+Explanation of the answer",right
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"lean left
+
+Classification: Left
+
+Classification: Lean",lean left
+lean right,"right
+
+Label: right
+
+Label: lean left",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+This article contains political bias. The author",center
+center,"center
+
+Article:
+Chinaâ€™s Vice President",center
+left,"lean left
+
+Label: left
+
+Label: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"lean left
+
+Classification: Left-leaning bias
+
+Classification",lean left
+left,"center
+
+This article contains no political bias. It",center
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"right
+
+Classification: Right
+
+Explanation: The article",right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"center
+
+To classify the political bias of the given",center
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"right
+
+Classification: right
+
+This article contains no",right
+center,"center
+
+Classification: center
+
+This article contains moderate",center
+right,"center
+
+I don't think I can classify this",center
+center,"lean right
+To classify the political bias of the",lean right
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"center
+
+This article contains political bias. The author",center
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+right,"center
+
+This article contains no political bias. It",center
+right,"center
+
+This article contains no political bias. It",center
+left,"lean left
+Bias: lean right
+Bias:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"right
+
+Article:
+Elon Musk: 'Dis",right
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"center
+
+Label: center
+
+Label: lean left",lean left
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"center
+
+Classification: center
+
+This article appears to",center
+left,"center
+
+I apologize, but none of the provided",center
+right,"right
+
+Classification: right
+
+Explanation: The article",right
+right,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+To determine the political bias of the given",center
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"right
+
+I apologize, but I cannot provide an",right
+right,"center
+
+I apologize, but none of the articles",center
+lean right,"lean left
+
+Classification: Left-leaning bias
+
+Classification",lean left
+left,"right
+
+This article contains no political bias. It",right
+lean left,"center
+
+Classification: center
+
+This article contains moderate",center
+lean left,"lean left
+
+This article contains political bias. The",lean left
+left,"center
+
+I apologize, but none of the provided",center
+lean right,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"right
+
+Please provide me with the text so I",right
+left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+I classified",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+lean right,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Article:
+The article discusses the topic of",center
+left,"lean right
+
+Classification: Left
+
+I apologize,",lean right
+left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+left,"right
+
+Label: right
+
+Label: lean left",lean left
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"center
+
+This article contains no political bias. It",center
+lean right,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+lean right,"right
+
+Label: right
+
+I apologize, but",right
+left,"lean left
+
+Assistant: lean left
+
+This article",lean left
+lean left,"center
+
+I apologize, but none of the provided",center
+left,"right
+
+Label: right
+
+This article contains political",right
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: Left
+
+This article appears",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"right
+
+This article contains political bias. The author",right
+lean left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+Bias: lean right
+Bias:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Assistant: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: Left
+
+Classification: Lean",lean left
+lean left,"center
+
+Classification: center
+
+I apologize, but",center
+left,"center
+
+Bias: lean right
+
+Bias: lean",lean right
+left,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"center
+
+Article:
+I am a political bias classification",center
+center,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"center
+
+Classification: center
+
+This article contains moderate",center
+right,"right
+
+Classification: Right
+
+Explanation: The article",right
+lean left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+I apologize",lean left
+right,"center
+
+I apologize, but none of the provided",center
+lean left,"center
+
+I apologize, but none of the articles",center
+right,"center
+
+I apologize, but none of the provided",center
+lean right,"right
+
+Classification: Right
+
+I apologize, but",right
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+Classification: Left
+
+This article presents",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+To classify the political bias of the",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+I classified this article as center. The",center
+lean right,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"center
+
+Classification: center
+
+This article appears to",center
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: center
+
+This article does not",center
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"right
+
+Classification: Right
+
+I apologize, but",right
+lean left,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"center
+
+I apologize, but none of the provided",center
+right,"center
+
+Classification: center
+
+This article contains no",center
+left,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"center
+
+Classification: center
+
+This article discusses the",center
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: Left-leaning bias
+
+Classification",lean left
+right,"center
+
+Classification: center
+
+Explanation: The article",center
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean right,"center
+
+The article contains negative language and stereotypes.",center
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"center
+
+Example 2:
+
+Title: Trump's",center
+right,"left
+
+To view social media enable social cookies To",left
+left,"lean left
+
+Classification: Left
+
+I apologize,",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"center
+
+Article:
+Massachusetts State Auditor Diana Di",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Article:
+The article discusses the comments made",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Label: center
+
+I apologize, but",center
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"right
+
+Classification: Left
+
+Explanation: The article",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean left,"center
+
+Classification: center
+
+This article discusses the",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"center
+
+Label: center
+
+I apologize, but",center
+left,"center
+
+I apologize, but none of the provided",center
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"right
+
+Classification: Right
+
+Explanation: The article",right
+right,"center
+
+Classification: center
+
+Explanation: The article",center
+right,"right
+
+Classification: right
+
+Explanation: The article",right
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"center
+
+Label: center
+
+Label: left",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"right
+
+This article contains no political bias. It",right
+right,"right
+
+Classification: right
+
+Explanation: The article",right
+lean left,"center
+
+I apologize, but none of the articles",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"left
+
+Classification: left
+
+Explanation: The article",left
+lean right,"center
+
+Classification: center
+
+Explanation: The article",center
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"right
+
+Classification: right
+
+Explanation: The article",right
+left,"right
+
+Classification: Right
+
+This article contains no",right
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+center,"center
+
+I apologize, but none of the provided",center
+left,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"center
+
+This article contains political bias. The author",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean left,"center
+
+Label: center
+
+This article contains moderate",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean right,"center
+
+Article:
+I am a conservative, and",center
+left,"lean left
+
+Article:
+Donald Trump is trying to",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: Left
+
+This article presents",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"center
+
+Bias: right
+
+Bias: lean left",lean left
+right,"center
+
+Label: center
+
+I apologize, but",center
+right,"center
+
+Classification: center
+
+This article contains moderate",center
+left,"center
+
+Label: center
+
+I apologize, but",center
+center,"center
+
+Label: center
+This article discusses the",center
+right,"center
+
+Classification: center
+
+This article contains moderate",center
+left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"center
+
+This article contains no political bias. It",center
+left,"center
+
+Label: center
+
+I apologize, but",center
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+right,"center
+
+To view social media enable social cookies",center
+right,"right
+
+Classification: left
+
+This article contains no",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"right
+
+This article contains no political bias. It",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: center
+
+Classification: center",center
+lean left,"right
+
+This article expresses political bias towards the speaker",right
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+lean right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"center
+
+Article:
+WASHINGTON (AP) â",center
+right,"left
+
+Classification: Left
+
+Explanation: The article",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: Left
+
+Classification: Right",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+right,"center
+
+I apologize, but none of the articles",center
+left,"left
+
+Classification: left
+
+Explanation: The article",left
+right,"center
+
+Label: center
+
+Label: lean left",lean left
+center,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"center
+
+I apologize, but none of the provided",center
+left,"left
+
+Classification: left
+
+I apologize, but",left
+left,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+This article contains no political bias. It",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"center
+
+This article contains political bias. The author",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"right
+
+This article contains no political bias. It",right
+left,"right
+
+Classification: left
+
+Explanation: The article",left
+center,"lean left
+
+Classification: Left
+
+Classification: Right",lean left
+left,"center
+
+Label: center
+
+I apologize, but",center
+lean left,"center
+
+This article contains political bias. The author",center
+lean left,"right
+
+Label: right
+
+I apologize, but",right
+right,"left
+
+This article contains no political bias. It",left
+left,"right
+
+Label: right
+
+Label: lean left",lean left
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"right
+
+Label: right
+
+Explanation: The article",right
+left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"right
+
+This article contains political bias. The author",right
+left,"center
+
+I apologize, but none of the articles",center
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"right
+
+Label: right
+
+I apologize, but",right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+right,"right
+
+This article contains no political bias. It",right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"center
+
+I classified this article as center because it",center
+center,"lean left
+
+Classification: lean left
+
+I classified",lean left
+left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+lean left,"center
+
+I apologize, but none of the provided",center
+lean left,"lean left
+
+Bias: lean left
+
+Bias:",lean left
+center,"center
+
+Label: center
+
+Label: lean left",lean left
+lean right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean left,"center
+
+Classification: center
+
+This article appears to",center
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+left,"right
+
+Classification: Right
+
+This article contains political",right
+right,"center
+
+Label: center
+
+Label: center",center
+left,"center
+
+Classification: center
+
+This article contains moderate",center
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"center
+
+Classification: center
+
+Explanation: The article",center
+center,"center
+
+I apologize, but I cannot generate a",center
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Classification: Left
+
+Classification: Right",lean left
+right,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"center
+
+This article contains political bias. The author",center
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"center
+
+Assistant: center
+
+I classified this article",center
+lean right,"lean left
+
+Classification: Left-leaning
+
+Classification:",lean left
+left,"center
+
+Article:
+The title is misleading. The",center
+left,"right
+
+Classification: Left
+
+Explanation: The article",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+To classify the political bias of the",lean left
+lean right,"right
+
+Label: right
+
+I apologize, but",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Classification: center
+
+This article contains no",center
+left,"center
+
+I apologize, but none of the articles",center
+center,"center
+
+Bias: right
+
+Bias: lean left",lean left
+lean left,"center
+
+I apologize, but none of the articles",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean right,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+bias: lean left
+classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"center
+
+Label: center
+
+This article does not",center
+left,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"right
+
+Classification: left
+
+Explanation: The article",left
+left,"center
+
+I apologize, but none of the provided",center
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+lean left,"lean left
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean right,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"center
+
+Classification: center
+
+This article contains moderate",center
+right,"center
+
+Article:
+This article discusses the confirmation of",center
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean right,"center
+
+Classification: center
+
+This article appears to",center
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+lean left,"right
+
+Classification: Right
+
+I apologize, but",right
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"center
+
+I apologize, but none of the provided",center
+right,"center
+
+This article contains no political bias. It",center
+left,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"right
+
+Classification: Right
+
+Classification: Left",left
+left,"center
+
+Label: center
+
+I apologize, but",center
+left,"center
+
+Classification: center
+
+This article appears to",center
+left,"left
+
+Classification: left
+
+I apologize, but",left
+center,"right
+
+Classification: left
+
+This article contains no",left
+lean left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Label: center
+
+This article contains no",center
+lean left,"right
+
+Label: right
+
+Label: lean left",lean left
+left,"right
+
+Classification: Right
+
+This article contains no",right
+lean left,"center
+
+Label: center
+
+I apologize, but",center
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"center
+
+This article contains political bias. The author",center
+right,"left
+
+This article contains political bias. The author",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+lean left,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+I apologize, but I cannot provide",lean left
+lean left,"center
+
+This article appears to contain moderate political bias",center
+lean left,"center
+
+Classification: center
+
+This article appears to",center
+right,"right
+
+Label: right
+
+Label: lean left",lean left
+lean right,"center
+
+Article:
+Israel signed a deal to release",center
+right,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+left,"right
+
+Classification: Right
+
+This article contains no",right
+left,"right
+
+This article contains no political bias. It",right
+right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+center,"center
+
+Example 11:
+
+Title: Trump",center
+left,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Classification: Left
+
+I apologize, but",left
+right,"right
+
+Label: right
+
+Explanation: The article",right
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Article:
+The article discusses the controversy surrounding",center
+left,"center
+
+Label: center
+
+Classification Explanation: The",center
+right,"center
+
+I apologize, but I cannot provide a",center
+center,"center
+
+Label: center
+
+I apologize, but",center
+right,"lean left
+
+Classification: Left
+
+Explanation: The",lean left
+center,"lean left
+Bias: lean right
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"center
+
+Classification: center
+
+This article discusses the",center
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"center
+
+Classification: center
+
+This article appears to",center
+right,"center
+
+Classification: center
+
+This article appears to",center
+right,"center
+
+This article contains moderate bias. There is",center
+lean right,"center
+
+Classification: center
+
+I apologize, but",center
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean left,"right
+
+Please provide me with the title and the",right
+left,"right
+
+Classification: Right
+
+Explanation: The article",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"right
+
+Label: right
+
+Explanation: The article",right
+right,"right
+
+Label: right
+
+I apologize, but",right
+left,"center
+
+Label: center
+
+I apologize, but",center
+left,"center
+
+Classification: center
+
+This article appears to",center
+right,"right
+
+Article:
+The article discusses the controversial executive",right
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"right
+
+Classification: right
+
+This article contains moderate",right
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+lean left,"lean left
+Bias: lean right
+Bias:",lean left
+right,"center
+
+I apologize, but none of the provided",center
+left,"center
+
+Classification: center
+
+This article appears to",center
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+center,"center
+
+To classify the political bias of the given",center
+left,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+To classify the political bias of the",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"right
+
+I apologize, but none of the provided",right
+left,"center
+
+I apologize, but none of the provided",center
+right,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+right,"center
+
+Classification: center
+
+I apologize, but",center
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Label: center
+
+I apologize, but",center
+center,"right
+
+This article contains no political bias. It",right
+right,"right
+
+Classification: left
+
+Explanation: The article",left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"lean left
+
+Classification: Left
+
+Classification: Right",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+left,"left
+
+Classification: left
+
+Explanation: The article",left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"center
+
+Label: center
+
+Label: lean left",lean left
+center,"lean left
+
+Classification: Left
+
+Classification: Lean",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+Bias: lean right
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"right
+
+Bias: lean left
+
+Bias: center",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Assistant: center
+
+The article discusses the",center
+lean right,"center
+
+Label: center
+
+Label: left",left
+right,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"right
+
+This article contains political bias. The author",right
+right,"center
+
+Classification: center
+
+This article does not",center
+left,"left
+
+Classification: left
+
+Explain your answer",left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Article:
+The title of the article is",center
+right,"center
+
+Classification: center
+
+This article appears to",center
+right,"center
+
+Classification: center
+
+This article appears to",center
+lean right,"right
+
+Label: center
+
+Label: left",left
+lean right,"center
+
+This article contains no political bias. It",center
+left,"lean left
+
+Assistant: lean left
+
+This article",lean left
+left,"center
+
+I apologize, but none of the articles",center
+left,"right
+
+Classification: Left
+
+Explanation: The article",left
+left,"center
+
+I apologize, but I cannot classify this",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: Center
+
+This article appears to",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+Bias: lean right
+Bias:",lean left
+lean left,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean left,"center
+
+Label: center
+
+I apologize, but",center
+lean right,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+right,"right
+
+Classification: Left
+
+Explanation: The article",left
+left,"lean right
+
+Classification: lean right
+
+I apologize",lean right
+left,"right
+
+Label: right
+
+I apologize, but",right
+lean right,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+This article contains no political bias information",lean left
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+right,"right
+
+This article contains political bias. The author",right
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"lean left
+To classify the political bias of the",lean left
+left,"right
+
+Example 11:
+
+Title: '",right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"left
+
+Classification: Left
+
+Classification: Right",left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"right
+
+Classification: Right
+
+I apologize, but",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: center
+
+This article appears to",center
+left,"center
+
+I apologize, but none of the provided",center
+right,"left
+
+This article contains political bias. The author",left
+lean left,"lean left
+
+Classification: Left
+
+Explanation: The",lean left
+left,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+left,"center
+
+Label: center
+
+Classification Explanation: The",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: center
+
+This article discusses the",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"left
+
+Based on the content of the article,",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"lean left
+
+Please provide me with the classification of",lean left
+left,"center
+
+I apologize, but none of the articles",center
+left,"lean left
+Bias: lean right
+Bias:",lean left
+right,"right
+
+This article contains no political bias. It",right
+lean left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+left,"center
+
+Classification: center
+
+This article appears to",center
+lean left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+lean right,"center
+
+Classification: center
+
+Classification: center",center
+right,"left
+
+Classification: Left
+
+Explanation: The article",left
+right,"right
+
+Classification: Right
+
+I apologize, but",right
+left,"right
+
+This article contains political bias. The author",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"right
+
+Classification: left
+
+I apologize, but",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean left
+
+Bias:",lean left
+right,"right
+
+Label: right
+
+I apologize, but",right
+lean left,"right
+
+Classification: right
+
+Explanation: The article",right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+right,"center
+
+Bias: lean left
+
+Bias: right",lean left
+left,"right
+
+Classification: Right
+
+I apologize, but",right
+right,"lean left
+
+Classification: lean left
+
+I classified",lean left
+right,"right
+
+This article contains no political bias. It",right
+left,"lean left
+
+Assistant: lean left
+
+This article",lean left
+right,"center
+
+Classification: center
+
+Classification: center",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"right
+
+Classification: right
+
+Explanation: The article",right
+right,"center
+
+Classification: center
+
+This article appears to",center
+right,"lean left
+
+Classification: Left
+
+This article presents",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Label: center
+
+Label: left",left
+left,"center
+
+Classification: center
+
+This article contains moderate",center
+left,"lean left
+
+Please briefly describe the article.
+The",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+lean left,"center
+
+I apologize, but none of the articles",center
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"right
+
+Label: right
+
+I apologize, but",right
+left,"right
+
+Classification: right
+
+Explanation: The article",right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"right
+
+Classification: left
+
+Explanation: The article",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Classification: center
+
+Explanation: The article",center
+right,"center
+
+Label: center
+
+Explanation: The article",center
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"center
+
+Classification: center
+
+Explain the system",center
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+lean right,"center
+
+I apologize, but none of the articles",center
+lean left,"center
+
+I apologize, but none of the articles",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"center
+
+I'm a Japanese nutritionist and I",center
+right,"center
+
+Classification: center
+
+This article appears to",center
+right,"right
+
+Classification: Right
+
+Explanation: The article",right
+right,"center
+
+I apologize, but none of the provided",center
+center,"center
+
+Article:
+The Trump administration has introduced a",center
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+Classification: center
+This article appears to",center
+left,"right
+
+Article:
+Alex Jones claims 'Black,",right
+center,"center
+
+Article:
+I am a journalist who writes",center
+left,"center
+
+Bias: right
+
+Bias: lean left",lean left
+center,"lean left
+
+Classification: Left
+
+This article discusses",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: center
+
+This article contains no",center
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"center
+
+Classification: center
+
+I apologize, but",center
+left,"center
+
+Bias: lean left
+
+Bias: lean",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"center
+
+Bias: lean left
+
+Bias: right",lean left
+center,"lean right
+
+Classification: lean right
+
+I apologize",lean right
+left,"lean left
+
+Classification: Left
+
+Classification: Lean",lean left
+left,"right
+
+This article contains political bias. The author",right
+left,"center
+
+Article:
+The article discusses the 1",center
+left,"lean left
+
+Classification: left
+
+Classification: lean",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"right
+
+Classification: Right
+
+This article contains moderate",right
+right,"center
+
+Classification: center
+
+I apologize, but",center
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: Left
+
+I apologize,",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"right
+
+Label: right
+
+Label: lean left",lean left
+left,"center
+
+Classification: center
+
+This article appears to",center
+left,"center
+
+This article contains no political bias. It",center
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"center
+
+Label: center
+
+I apologize, but",center
+center,"lean left
+
+Classification: Left
+
+I apologize,",lean left
+left,"lean left
+
+Classification: lean left
+
+I classified",lean left
+lean left,"center
+
+Classification: center
+
+This article appears to",center
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"center
+
+I apologize, but none of the given",center
+lean right,"right
+
+Label: right
+
+I apologize, but",right
+left,"center
+
+I apologize, but none of the provided",center
+left,"center
+
+I apologize, but none of the provided",center
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+I apologize, but none of the provided",center
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: center
+
+This article contains no",center
+center,"center
+
+Label: center
+
+Label: left",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"center
+
+Article:
+The article discusses the executive order",center
+lean left,"center
+
+Classification: center
+
+This article appears to",center
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+right,"center
+
+Classification: center
+
+This article appears to",center
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+center,"right
+
+Classification: left
+
+I apologize, but",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: Left
+
+This article discusses",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"right
+
+This article contains political bias. The author",right
+left,"center
+
+Label: center
+
+I apologize, but",center
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"center
+
+I apologize, but none of the provided",center
+right,"lean left
+
+This article contains political bias. The",lean left
+lean right,"lean left
+
+Classification: Left
+
+Classification: Lean",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"center
+
+Label: center
+
+I apologize, but",center
+right,"right
+
+Label: right
+
+I apologize, but",right
+left,"center
+
+Bias: lean left
+
+Bias: right",lean left
+lean left,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+left,"lean left
+
+Classification: Left
+
+This article contains",lean left
+left,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"left
+
+Bias: lean left
+
+Bias: right",lean left

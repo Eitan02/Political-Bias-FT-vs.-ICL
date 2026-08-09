@@ -1,0 +1,3259 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+To classify the political bias of the",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Zel",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Assistant: lean left. The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Article:
+The Trump administration plans to",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+To classify the political bias of the",lean right
+left,"lean right
+
+Label me! Please explain your reasoning",lean right
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean right
+
+Label: lean right
+
+Explanation:",lean right
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Classification: lean left
+
+In this",lean left
+center,"lean left
+
+Please provide me with the classification label",lean left
+right,"lean left
+
+Article:
+In a speech to the",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean right,"right
+
+Label: lean right
+
+Label: left",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Article:
+Chinaâ€™s Vice",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+left,"lean right
+
+Based on the content of the article",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Just days",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Article:
+Trump Melts Down at",lean right
+center,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean left
+Bias: lean right
+Bias:",lean left
+center,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+lean right,"lean left
+
+Article:
+HOA that claimed Memorial",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Explanation: The article contains strong language",lean right
+left,"lean right
+To classify the political bias of the",lean right
+lean left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean right
+
+Article:
+Elon Musk, the",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean right
+
+Label: lean right
+
+Label:",lean right
+lean left,"lean left
+
+Classification: lean left
+
+In this",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Assistant: lean right
+
+The article",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+right,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+lean left,"lean right
+
+Label: lean right
+
+Label:",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Please provide your classification.",lean left
+left,"lean right
+To classify the political bias of the",lean right
+lean right,"lean left
+
+Article:
+In a rare show of",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+What does this mean for me?",lean right
+left,"lean right
+To classify the political bias of the",lean right
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+right,"lean right
+
+Article:
+Maher: Dems Put",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Article:
+Trump's supporters are calling",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean right,"lean right
+
+Article:
+Illegal immigration is the issue",lean right
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"right
+
+Classification: lean right
+
+Explanation: The",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean right
+
+Article:
+The article discusses the benefits",lean right
+center,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Piper",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Article:
+Trump's tariffs on steel",lean right
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Label: lean left
+
+Classification Explanation",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Article:
+A powerful Republican senator's",lean right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Classification: lean left
+
+The article",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+To classify the political bias of the",lean right
+left,"lean left
+
+Article:
+In a rare display of",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+To classify the political bias of the",lean left
+right,"lean left
+
+Classification: lean left
+
+The article",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Example 2:
+
+Title: Trump",lean right
+right,"lean right
+
+To view social media enable social cookies",lean right
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Article:
+The new book, """,lean left
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Article:
+Laura Ingraham",lean left
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Assistant: lean right Example 1",lean right
+center,"lean right
+
+Bias: lean left
+
+Center",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Based on the content of the article",lean right
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+center,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"right
+
+Article:
+In the wake of the",right
+left,"lean left
+
+Article:
+Trump's campaign has been",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+In this",lean right
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+center,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+center,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean right
+To explain this to a five-year",lean right
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean right
+
+Article:
+The Senate was quick to",lean right
+right,"lean right
+To view social media enable social cookies",lean right
+right,"lean right
+
+Based on the content of the article",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Article:
+Elon Musk, the",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Based on the content of the article",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean right
+
+Based on the content of the article",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Article:
+Fed Chair Jerome Powell threw",lean left
+lean right,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+right,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+Classification: lean left
+
+In this",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean left,"lean right
+
+Label: lean right
+
+Label:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+To classify the political bias of the",lean right
+left,"lean left
+
+Article:
+Trump slams Liz Cheney",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Article:
+CNNâ€™s Adam",lean right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Article:
+Trump says California needs voter",lean left
+lean left,"lean left
+
+Classification: lean left
+
+The article",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Based on the content of the article",lean right
+right,"lean right
+To classify the political bias of the",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Article:
+Traveling with expensive jewelry",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+center,"lean right
+
+To determine whether the article contains political",lean right
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean right
+
+Based on the content of the article",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean right
+
+Article:
+The Trump administration has announced",lean right
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Article:
+The article discusses the controversy",lean right
+lean right,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Classification: lean left
+
+In this",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+bias: lean right
+classification:",lean right
+right,"lean left
+
+Classification: lean left
+
+In this",lean left
+left,"lean right
+
+Article:
+CNN host uses GOP senator",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean right
+
+Article:
+In a stark warning to",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Article:
+Trump's administration has been",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Article:
+Fox News â€œ",lean left
+right,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Article:
+South Dakota Gov. Krist",lean right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Article:
+In a rare display of",lean right
+right,"lean left
+
+Classification: lean left
+
+In this",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Article:
+The new president is expected",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+To determine the political bias of the",lean right
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean right
+
+Classification: lean right
+
+In this",lean right
+left,"lean right
+To classify the political bias of the",lean right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Label: lean right
+
+Label:",lean right
+lean right,"lean left
+
+Article:
+Israel signed a deal to",lean left
+right,"lean right
+To classify the political bias of the",lean right
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Article:
+President Donald Trump addresses troops",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Article:
+The Consumer Financial Protection Bureau",lean right
+left,"lean left
+
+Article:
+Trump's administration has been",lean left
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+center,"lean left
+
+Article:
+HD Video Download Today's",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean right
+To determine the political bias of the",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean left,"lean left
+
+Please provide your answer quickly and be",lean left
+lean left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Label: lean right
+
+Label:",lean right
+right,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Article:
+On Wednesdayâ€™s",lean right
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean right
+To classify the political bias of the",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+To classify the political bias of the",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+center,"lean right
+
+Assistant: lean right
+
+The article",lean right
+right,"lean left
+
+Article:
+Itâ€™s wrong",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Article:
+The Trump administration has announced",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Label: lean right
+
+Label:",lean right
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+Bias: lean left
+Bias:",lean left
+left,"lean left
+
+A Walton married a socialist.
+
+If",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+lean right,"lean right
+
+Label: lean right
+
+Label:",lean right
+right,"lean right
+Bias: lean left
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+Explain your answer. The article",lean right
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Article:
+President Donald Trump has announced",lean right
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean right
+
+Label: lean right
+
+Label:",lean right
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Based on the content of the article",lean right
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+lean left,"lean left
+
+Article:
+Bridgestone Americas",lean left
+lean right,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Article:
+Watch President Trump’s new",lean right
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+lean right,"lean right
+
+Classification: lean right
+
+Reasoning",lean right
+left,"lean left
+
+Article:
+Michiganâ€™s top",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Article:
+Fed Chair Jerome Powell Calls",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Article:
+In a rare show of",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Article:
+The Trump administration wonâ",lean left
+left,"lean left
+
+Please provide me with the text of",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+Bias: lean left
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+lean left,"lean left
+
+Classification: lean left
+
+The article",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Classification: lean left
+
+The article",lean left
+left,"lean left
+
+Please explain your reasoning.",lean left
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explain",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Please provide your answer quickly! I",lean right
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Article:
+Trump started riots in LA",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right Example 1",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer quickly and be",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer quickly and be",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean right,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Article:
+Trump's administration has been",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Article:
+Former President Joe Biden,",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Article:
+Exclu: Mayor",lean left
+left,"lean right
+
+Classification: lean right
+
+In this",lean right
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Article:
+I am a Japanese nutrition",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+To classify the political bias of the",lean left
+left,"lean right
+
+Article:
+Alex Jones claims 'Black",lean right
+center,"lean right
+
+Article:
+Mike Pesca: How",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Classification: lean left
+
+The article",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Assistant: lean right
+
+The article",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean right
+To classify the political bias of the",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Article:
+Trump’s new executive order",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+lean right,"lean right
+
+Classification: lean right
+
+In this",lean right
+center,"lean right
+
+Classification: lean right
+
+In this",lean right
+right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"right
+
+Label: lean right
+
+Label: lean",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Article:
+In a rare show of",lean right
+lean right,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean right
+
+Article:
+Trump's nominee for Treasury",lean right
+left,"lean left
+
+Please provide your answer quickly and be",lean left
+center,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean right
+
+Bias: lean left
+
+Bias:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean right
+
+Classification: lean right
+
+In this",lean right
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Classification: lean right
+
+Classification:",lean right
+left,"lean left
+
+To determine the political bias of the",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean right
+
+Article:
+CNN senior political commentator and",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean left,"lean right
+
+Classification: lean right
+
+Explanation:",lean right
+left,"lean left
+
+Classification: lean left
+
+Justification",lean left
+left,"lean left
+
+Classification: lean left
+
+The article",lean left
+left,"lean right
+
+Article:
+The Morning Call reports Raspberry",lean right
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left

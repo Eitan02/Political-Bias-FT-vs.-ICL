@@ -1,0 +1,1270 @@
+True Label,Raw Prediction,Parsed Prediction
+left,right,right
+left,right,right
+left,"right
+
+**Explanation:**
+
+The article discusses the",right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,lean left,lean left
+left,right,right
+left,lean right,lean right
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,"right 
+
+**Please note:** This is a",right
+left,lean left,lean left
+left,"center 
+
+**Explanation:**
+
+The article presents",center
+lean right,right,right
+left,right,right
+left,"lean left 
+
+
+**Explanation:**
+
+The article",lean left
+lean right,right,right
+left,lean right,lean right
+right,right,right
+left,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,"right
+
+
+**Explanation:**
+
+The article presents Piers",right
+left,"right 
+
+Please provide the reasoning for your classification",right
+lean left,right,right
+left,right,right
+center,,invalid
+center,right,right
+left,lean left,lean left
+lean left,"right 
+
+
+**Explanation:**
+
+The article presents",right
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,right,right
+left,left,left
+center,left,left
+right,lean left,lean left
+right,center,center
+right,lean right,lean right
+lean left,"right 
+
+
+**Explanation:**
+
+The article focuses",right
+left,left,left
+left,left,left
+lean right,"right 
+
+Please provide the reasoning for your classification",right
+left,right,right
+left,center,center
+center,center,center
+left,center,center
+left,right,right
+left,right,right
+left,right,right
+center,right,right
+left,right,right
+left,right,right
+left,left,left
+right,right,right
+left,center,center
+left,right,right
+left,lean right,lean right
+left,right,right
+left,center,center
+left,right,right
+center,right,right
+right,right,right
+center,lean right,lean right
+left,lean left,lean left
+left,center,center
+lean right,center,center
+left,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,center,center
+right,left,left
+left,right,right
+lean left,right,right
+right,right,right
+left,right,right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+center,center,center
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,left,left
+left,"right
+
+**Please note:** I am an AI",right
+center,center,center
+left,left,left
+right,"right 
+
+**Please explain your reasoning.**",right
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,lean left,lean left
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+right,right,right
+lean left,"right 
+
+Please provide the reasoning for your classification",right
+right,"right
+
+**Please note:** I am an AI",right
+lean right,right,right
+left,left,left
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean left,right,right
+left,right,right
+lean right,lean right,lean right
+left,left,left
+left,right,right
+left,right,right
+lean right,center,center
+left,right,right
+left,right,right
+left,left,left
+left,left,left
+right,lean left,lean left
+lean right,right,right
+left,lean left,lean left
+right,right,right
+left,right,right
+left,left,left
+left,center,center
+left,right,right
+left,center,center
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean right,"right 
+
+**Explanation:**
+
+The article uses",right
+left,center,center
+lean left,center,center
+left,lean right,lean right
+lean left,left,left
+left,left,left
+lean left,right,right
+center,left,left
+lean left,center,center
+left,right,right
+center,right,right
+left,"right 
+
+**Please note:** I am an",right
+left,right,right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,"right 
+
+**Explanation:**
+
+The article critici",right
+left,center,center
+left,right,right
+lean right,"right
+
+**Explanation:**
+
+The article presents a",right
+right,right,right
+right,right,right
+center,center,center
+center,right,right
+left,right,right
+right,"right 
+
+Please provide the reasoning for your classification",right
+lean left,center,center
+lean right,right,right
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,right,right
+left,center,center
+right,center,center
+lean left,"right 
+
+**Explanation:**
+
+The article presents",right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,"right 
+
+**Please note:** This classification is",right
+left,right,right
+lean left,right,right
+left,left,left
+right,left,left
+left,right,right
+lean right,right,right
+left,left,left
+left,left,left
+left,right,right
+left,lean right,lean right
+lean right,center,center
+left,center,center
+left,left,left
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+lean left,"left 
+
+**Please note:** I am an",left
+left,"lean right 
+
+
+**Explanation:**
+
+The article",lean right
+lean left,lean right,lean right
+left,lean right,lean right
+left,left,left
+right,"right 
+
+**Please note:** I am an",right
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+lean left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,lean left,lean left
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,right,right
+left,center,center
+left,lean left,lean left
+left,right,right
+left,left,left
+right,"right 
+
+**Please provide the reasoning for your",right
+right,lean left,lean left
+center,left,left
+lean right,lean right,lean right
+center,center,center
+center,right,right
+left,left,left
+right,right,right
+right,right,right
+lean right,lean right,lean right
+lean right,"right 
+
+
+**Explanation:**
+
+The article portrays",right
+left,right,right
+center,center,center
+lean left,left,left
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,right,right
+right,right,right
+center,center,center
+left,lean left,lean left
+left,lean left,lean left
+left,lean right,lean right
+left,lean left,lean left
+left,left,left
+left,right,right
+left,"center 
+
+**Explanation:**
+
+The article presents",center
+lean left,"right 
+
+**Please note:** I am an",right
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+right,right,right
+lean left,center,center
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+center,center,center
+left,"right 
+
+
+**Explanation:**
+
+The article is",right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,right,right
+center,right,right
+lean right,right,right
+left,right,right
+right,right,right
+left,lean left,lean left
+right,right,right
+lean left,"center 
+
+**Explanation:**
+
+The article presents",center
+left,left,left
+left,center,center
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean right,lean left,lean left
+lean right,center,center
+left,center,center
+left,lean left,lean left
+left,right,right
+left,right,right
+left,right,right
+center,left,left
+left,lean right,lean right
+left,left,left
+left,center,center
+left,left,left
+lean left,"left 
+
+**Explanation:**
+
+The article focuses",left
+left,left,left
+lean right,"right 
+
+
+**Explanation:**
+
+The article critici",right
+left,center,center
+left,right,right
+left,left,left
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+center,right,right
+left,center,center
+center,right,right
+right,right,right
+right,left,left
+left,right,right
+center,right,right
+right,right,right
+left,right,right
+left,lean right,lean right
+left,right,right
+left,right,right
+right,"left 
+
+**Explanation:**
+
+The article focuses",left
+right,right,right
+left,lean right,lean right
+lean left,right,right
+lean right,right,right
+left,"lean right 
+
+
+**Explanation:**
+
+The article",lean right
+right,right,right
+left,right,right
+left,right,right
+lean left,right,right
+left,left,left
+lean right,lean left,lean left
+left,right,right
+lean left,right,right
+left,right,right
+left,right,right
+lean right,lean right,lean right
+left,center,center
+right,right,right
+lean left,right,right
+center,right,right
+left,left,left
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,right,right
+left,"right 
+
+**Please note:** I am an",right
+right,lean left,lean left
+center,right,right
+left,left,left
+lean right,lean right,lean right
+left,"right 
+
+
+**Explanation:**
+
+The article focuses",right
+left,center,center
+left,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean right,right,right
+left,right,right
+left,left,left
+right,right,right
+lean left,right,right
+left,left,left
+left,"right 
+
+
+**Explanation:**
+
+The article critici",right
+left,right,right
+center,right,right
+left,center,center
+lean left,right,right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,right,right
+left,left,left
+left,right,right
+left,right,right
+left,right,right
+left,right,right
+left,"right 
+
+**Please note:** I am an",right
+left,left,left
+left,right,right
+right,lean left,lean left
+left,left,left
+left,"right 
+
+**Please provide the reasoning for your",right
+right,right,right
+right,right,right
+center,"right
+
+**Explanation:**
+
+The article argues against",right
+center,right,right
+left,right,right
+left,left,left
+lean left,center,center
+lean left,center,center
+center,right,right
+lean right,right,right
+lean left,right,right
+lean left,"center 
+
+
+**Explanation:**
+
+The article presents",center
+right,lean right,lean right
+right,right,right
+left,right,right
+right,right,right
+left,left,left
+left,center,center
+left,right,right
+left,right,right
+left,lean right,lean right
+lean left,"right 
+
+**Explanation:**
+
+The article presents",right
+center,,invalid
+center,left,left
+left,left,left
+left,right,right
+right,right,right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+left,right,right
+left,lean right,lean right
+lean right,center,center
+left,center,center
+left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,lean left,lean left
+left,lean left,lean left
+lean right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,center,center
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,center,center
+center,right,right
+lean left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,left,left
+lean right,lean right,lean right
+left,lean left,lean left
+right,right,right
+left,lean left,lean left
+left,center,center
+left,lean left,lean left
+left,left,left
+lean right,"right
+
+**Please note:** I am an AI",right
+right,right,right
+lean left,left,left
+left,right,right
+right,center,center
+left,right,right
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,lean right,lean right
+right,"right 
+
+**Explanation:**
+
+The article highlights",right
+lean left,right,right
+lean right,lean right,lean right
+left,lean right,lean right
+lean left,lean left,lean left
+left,lean right,lean right
+left,right,right
+right,"right
+
+**Please note:** I am an AI",right
+left,lean left,lean left
+right,right,right
+left,"right 
+
+**Explanation:**
+
+The article is",right
+left,right,right
+left,lean left,lean left
+left,"lean left 
+
+
+**Explanation:**
+
+The article",lean left
+center,center,center
+lean left,center,center
+left,"right 
+
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+lean left,center,center
+left,right,right
+lean left,"right 
+
+**Please note:** I am an",right
+right,"right 
+
+**Explanation:**
+
+The article promotes",right
+left,right,right
+right,right,right
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,right,right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean left,right,right
+left,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean left,"lean right 
+
+
+**Explanation:**
+
+The article",lean right
+lean left,left,left
+right,right,right
+lean right,center,center
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+left,left,left
+right,right,right
+right,left,left
+center,lean left,lean left
+left,right,right
+left,center,center
+right,lean right,lean right
+right,left,left
+right,right,right
+right,right,right
+left,right,right
+left,right,right
+left,right,right
+left,right,right
+right,right,right
+center,lean left,lean left
+right,right,right
+center,center,center
+left,"right 
+
+**Please note:** I am an",right
+lean left,center,center
+lean left,left,left
+lean left,center,center
+right,"left 
+
+**Explanation:**
+
+The article highlights",left
+right,center,center
+lean right,lean left,lean left
+lean left,center,center
+lean left,center,center
+left,right,right
+left,right,right
+left,right,right
+right,right,right
+right,right,right
+left,center,center
+left,right,right
+right,lean left,lean left
+left,"right
+
+Please let me know if you have any",right
+left,left,left
+left,right,right
+left,"right 
+
+**Please note:** I am an",right
+left,center,center
+left,left,left
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+lean left,right,right
+lean right,right,right
+left,center,center
+left,center,center
+left,right,right
+left,right,right
+right,right,right
+center,right,right
+left,right,right
+left,left,left
+left,lean right,lean right
+left,lean right,lean right
+left,left,left
+left,lean right,lean right
+left,center,center
+left,left,left
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+right,right,right
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+center,"right 
+
+**Explanation:**
+
+The article critici",right
+left,left,left
+center,center,center
+right,left,left
+right,"right 
+
+**Please note:** I am an",right
+lean left,right,right
+left,right,right
+left,right,right
+left,lean right,lean right
+lean right,"left 
+
+**Explanation:**
+
+The article critici",left
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,center,center
+lean left,right,right
+lean right,right,right
+center,right,right
+right,right,right
+left,right,right
+left,right,right
+left,right,right
+lean left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,"right
+
+Please let me know if you have any",right
+left,left,left
+lean right,"right 
+
+
+**Explanation:**
+
+The article focuses",right
+right,right,right
+left,left,left
+right,left,left
+left,lean left,lean left
+left,center,center
+left,"right 
+
+**Please note:** I am an",right
+left,"lean right 
+
+
+**Explanation:**
+
+The article",lean right
+right,right,right
+right,right,right
+lean right,"right 
+
+Please provide the reasoning for your classification",right
+lean right,right,right
+left,left,left
+left,lean right,lean right
+left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,right,right
+left,left,left
+left,right,right
+left,right,right
+left,"right 
+
+Please provide the reasoning for your classification",right
+lean left,lean left,lean left
+left,right,right
+lean left,center,center
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,right,right
+right,right,right
+left,right,right
+left,right,right
+lean right,"right 
+
+**Please note:** I am an",right
+left,right,right
+left,center,center
+right,lean left,lean left
+left,"right 
+
+**Please note:** This is a",right
+left,lean left,lean left
+left,lean left,lean left
+right,left,left
+left,right,right
+right,"right 
+
+**Explanation:**
+
+The article highlights",right
+lean left,center,center
+left,right,right
+left,"right 
+
+**Please note:** I am an",right
+left,center,center
+left,center,center
+left,lean left,lean left
+right,right,right
+lean left,"right
+
+Please let me know if you need any",right
+left,center,center
+left,center,center
+left,left,left
+left,left,left
+left,lean left,lean left
+left,right,right
+left,center,center
+left,right,right
+left,"center 
+
+
+**Explanation:**
+
+The article presents",center
+lean left,right,right
+left,left,left
+left,center,center
+left,lean right,lean right
+right,lean left,lean left
+lean left,"right 
+
+**Please note:** I am an",right
+left,lean left,lean left
+left,right,right
+lean left,right,right
+left,"right 
+
+
+**Explanation:**
+
+The article critici",right
+lean left,left,left
+left,left,left
+lean right,lean right,lean right
+right,right,right
+right,right,right
+left,right,right
+left,center,center
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,right,right
+lean left,"center 
+
+**Explanation:**
+
+The article presents",center
+right,left,left
+lean left,center,center
+left,right,right
+right,"right 
+
+
+**Explanation:**
+
+The article presents",right
+right,right,right
+left,right,right
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+right,lean right,lean right
+left,"center
+
+
+**Explanation:**
+
+The article focuses on",center
+right,right,right
+left,lean left,lean left
+left,lean right,lean right
+right,right,right
+right,lean right,lean right
+left,center,center
+left,right,right
+right,center,center
+left,center,center
+left,right,right
+left,left,left
+left,left,left
+lean left,right,right
+left,right,right
+lean right,"right 
+
+Please provide the reasoning for your classification",right
+left,right,right
+left,right,right
+left,"left 
+
+**Please note:** I am an",left
+left,left,left
+right,right,right
+left,"right 
+
+**Please note:** I am an",right
+right,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,right,right
+left,right,right
+left,right,right
+lean right,"right 
+
+**Please note:** I am an",right
+left,right,right
+lean right,right,right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,center,center
+center,left,left
+right,right,right
+right,"right 
+
+**Please provide the reasoning for your",right
+right,right,right
+center,right,right
+lean right,"lean right 
+
+
+**Explanation:**
+
+The article",lean right
+right,lean left,lean left
+left,right,right
+center,right,right
+left,right,right
+center,left,left
+left,right,right
+left,right,right
+lean left,"center 
+
+**Explanation:**
+
+The article discusses",center
+right,right,right
+left,right,right
+left,center,center
+left,center,center
+lean right,"center 
+
+
+**Explanation:**
+
+The article presents",center
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+left,left,left
+lean left,center,center
+center,right,right
+left,center,center
+left,right,right
+left,"right
+
+
+**Explanation:**
+
+The article argues that",right
+left,right,right
+right,right,right
+lean right,right,right
+center,right,right
+right,right,right
+lean left,right,right
+left,right,right
+left,right,right
+left,right,right
+left,lean left,lean left
+left,"right 
+
+**Explanation:**
+
+The article presents",right
+lean left,right,right
+right,right,right
+center,"center 
+
+
+**Explanation:**
+
+The article presents",center
+left,"right
+
+Please provide the reasoning for your classification.",right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+lean right,"right 
+
+**Explanation:**
+
+The article focuses",right
+right,"lean right 
+
+
+**Explanation:**
+
+The article",lean right
+lean right,right,right
+left,lean left,lean left
+left,right,right
+right,right,right
+left,center,center
+left,left,left
+left,right,right
+lean right,"right 
+
+**Explanation:**
+
+The article highlights",right
+left,"center
+
+
+**Explanation:**
+
+The article showcases a",center
+center,center,center
+left,left,left
+lean left,right,right
+lean left,center,center
+left,right,right
+right,"right 
+
+**Explanation:**
+
+The article presents",right
+left,lean left,lean left
+center,center,center
+left,"right 
+
+
+**Explanation:**
+
+The article presents",right
+left,left,left
+left,"right 
+
+Please provide the reasoning for your classification",right
+left,"right
+
+Please let me know if you have any",right
+left,right,right
+center,right,right
+left,"center
+
+
+**Explanation:**
+
+The article is about",center
+left,lean right,lean right
+left,center,center
+lean left,"right 
+
+**Explanation:**
+
+The article presents",right
+center,"center
+
+
+**Explanation:**
+
+The article presents a",center
+right,lean left,lean left
+lean right,center,center
+left,center,center
+right,right,right
+left,center,center
+left,lean left,lean left
+left,right,right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+center,right,right
+right,center,center
+left,"right 
+
+
+**Explanation:**
+
+The article focuses",right
+lean left,"right 
+
+**Explanation:**
+
+The article focuses",right
+left,"right
+
+Please let me know if you need any",right
+left,right,right
+left,right,right
+left,left,left

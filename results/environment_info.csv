@@ -1,0 +1,8 @@
+Setting,Value
+Python Version,3.12.13
+PyTorch Version,2.11.0+cu128
+CUDA Available,True
+CUDA Version,12.8
+GPU,Tesla T4
+Maximum Token Length,2048
+Seed,42

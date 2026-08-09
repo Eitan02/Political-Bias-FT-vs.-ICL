@@ -1,0 +1,2196 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+This article contains political bias. The author",center
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article discusses immigration policies and military involvement",left
+left,"left
+
+This article discusses the actions taken by President",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Classification: left
+
+I apologize, but",left
+left,"left
+
+Based on the content of the article,",left
+left,"left
+
+This article discusses the rise of the meme",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"left
+
+This article is classified as ""left""",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left""",left
+lean right,"left
+
+This example demonstrates a strong left-leaning bias",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is biased towards the left.",left
+left,"left
+
+This article expresses political bias towards which party",left
+lean left,"left
+
+This article is classified as left. The",left
+left,"center
+
+Label: center
+
+I apologize, but",center
+center,"left
+
+I apologize, but I don't have",left
+center,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+I apologize, but none of the articles",left
+left,"left
+
+Classification: left
+
+I apologize, but",left
+left,"left
+
+This article contains political bias. Political party",left
+left,"left
+
+This article contains political bias. The author",left
+center,"lean left
+
+Please explain the classified label.",lean left
+right,"left
+
+This article is classified as ""left""",left
+right,"left
+
+This article is classified as ""left""",left
+right,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article discusses the actions taken by President",left
+left,"left
+
+Classification: left
+
+Explanation: The article",left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the creation of a new",left
+center,"left
+
+Please provide me with the Chinese translation of",left
+left,"center
+
+This article contains political bias. The author",center
+left,"left
+
+This article is classified as left. The",left
+left,"lean left
+
+Please explain your reasoning.",lean left
+left,"center
+
+Label: center
+
+In this task,",center
+center,"left
+
+This article contains political bias. The author",left
+left,"center
+
+Label: center
+
+This article contains moderate",center
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+Label: center
+
+What is the classification",center
+right,"right
+
+I apologize, but the article does not",right
+left,"right
+
+This article contains political bias. The author",right
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Based on the content of the article,",left
+left,"lean left
+
+Please explain the classification. The article",lean left
+left,"lean left
+
+Please explain why you classified this article",lean left
+left,"left
+
+This article is classified as ""left""",left
+center,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+center,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the phenomenon of Manhattanh",left
+lean right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article discusses the controversial immigration policies of",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"lean left
+
+This article discusses the confirmation of a",lean left
+right,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article discusses the upcoming presidency of",lean left
+right,"left
+
+Based on the content of the article,",left
+center,"left
+
+This article is classified as left. The",left
+lean left,"center
+
+This article contains political bias. The author",center
+left,"left
+
+Classification: left
+
+Explanation: The article",left
+left,"center
+
+I apologize, but none of the articles",center
+center,"left
+
+This article discusses the impact of the US",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. Political bias",left
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Based on the content of the article,",left
+right,"center
+
+This article contains political bias. The author",center
+lean left,"left
+
+This article contains political bias. Political bias",left
+right,"center
+
+I apologize, but none of the articles",center
+lean right,"lean left
+
+This article discusses the current situation in",lean left
+left,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+This article contains political bias. Political bias",left
+lean left,"lean left
+
+This article contains political bias. The",lean left
+left,"left
+
+This article discusses the rise of Christian fundamental",left
+lean right,"left
+
+This example demonstrates a strong bias towards left",left
+left,"lean left
+
+Please provide me with the classification label",lean left
+left,"left
+
+Based on the content of the article,",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as left. The",left
+left,"lean left
+
+Please explain the classification. I am",lean left
+left,"lean left
+
+This article discusses the Supreme Court ruling",lean left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+right,"left
+
+This article is classified as ""left""",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"right
+
+Label: right
+
+Label: lean left",lean left
+left,"left
+
+This article is classified as ""left""",left
+lean right,"center
+
+This article contains political bias. The author",center
+lean right,"left
+
+This article expresses political bias towards which party",left
+left,"center
+
+Label: center
+
+This article discusses the",center
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"center
+
+I apologize, but none of the provided",center
+left,"lean left
+
+Please explain the classification. I cannot",lean left
+lean left,"center
+
+Label: center
+
+This article contains moderate",center
+center,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article discusses immigration raids and protests in",left
+left,"lean left
+
+This article discusses immigration reform and its",lean left
+center,"left
+
+This article contains political bias. The author",left
+left,"center
+
+This article contains political bias. The author",center
+left,"lean left
+
+Please provide the answer clearly and conc",lean left
+lean left,"left
+
+I apologize, but I cannot provide an",left
+left,"left
+
+This example demonstrates a high level of political",left
+left,"center
+
+Article:
+This article discusses the political situation",center
+left,"lean left
+
+This article discusses the upcoming Senate race",lean left
+lean right,"left
+
+This article contains political bias. The author",left
+right,"center
+
+This article contains political bias. The author",center
+right,"left
+
+This article contains political bias. The article",left
+center,"left
+
+This article is classified as left. The",left
+center,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article expresses political bias towards the left",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"center
+
+Bias: lean left
+
+Bias: right",lean left
+lean right,"left
+
+Assistant: Left. The article discusses various",left
+left,"lean left
+
+Bias: right
+
+Bias: lean",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article discusses the optimism of small business",left
+lean left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+I apologize, but none of the provided",left
+lean right,"left
+
+This article contains political bias. Political party",left
+lean left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Assistant: Left. The article discusses the",left
+lean left,"center
+
+This article contains political bias. The author",center
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+I apologize, but none of the articles",left
+left,"left
+
+This article is classified as leaning left.",left
+lean right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+Assistant: Left
+
+This article discusses the",left
+left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+This article contains political bias. Political bias",left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This article discusses the Trump-Musk",lean left
+lean left,"left
+
+This article discusses a political issue and contains",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"center
+
+This article contains no political bias. It",center
+left,"left
+
+This article is classified as left-leaning.",left
+lean left,"lean left
+
+Please explain why you classified this article",lean left
+left,"left
+
+This article discusses the controversy surrounding the nomination",left
+left,"left
+
+This article expresses a political bias towards the",left
+right,"left
+
+I apologize, but none of the articles",left
+left,"left
+
+This article discusses the rise and fall of",left
+lean left,"center
+
+Based on the content of the article,",center
+left,"left
+
+I apologize, but none of the articles",left
+right,"center
+
+Assistant: center
+
+This article contains moderate",center
+left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article discusses the impact of President",lean left
+left,"left
+
+This article contains political bias. Political Bias",left
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+This article contains political bias. The author",center
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as left. The",left
+center,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+Based on the content of the article,",left
+center,"left
+
+This article discusses the impact of government intervention",left
+center,"left
+
+I apologize, but none of the articles",left
+left,"lean left
+
+This article discusses the shutdown of NIH",lean left
+right,"left
+
+This article contains political bias. The speaker",left
+right,"left
+
+Assistant: left
+
+The article contains significant",left
+lean right,"center
+
+This article contains political bias. The author",center
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left""",left
+center,"lean left
+
+Title: Trump’s Twitter Has Been",lean left
+lean left,"left
+
+This article is classified as lean left.",lean left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"lean left
+
+This article discusses the negative impact of",lean left
+center,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"left
+
+This article discusses the possible use of presidential",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article discusses immigration issues and the",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"center
+
+I apologize, but none of the provided",center
+lean left,"lean left
+
+I apologize, but none of the",lean left
+lean right,"right
+
+I apologize, but I cannot provide an",right
+left,"left
+
+Please explain the classification.
+The article is",left
+right,"center
+
+Label: center
+
+This article contains no",center
+lean left,"left
+
+This article discusses the Eaton Fire in California",left
+left,"left
+
+Based on the content of the article,",left
+center,"center
+
+I apologize, but none of the articles",center
+left,"left
+
+This article contains political bias. The author",left
+lean left,"center
+
+I apologize, but none of the articles",center
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+Based on the content of the article,",left
+right,"left
+
+I apologize, but the article does not",left
+center,"lean left
+
+I apologize, but none of the",lean left
+lean right,"left
+
+This example demonstrates a strong left-leaning bias",left
+left,"left
+
+I apologize, but none of the articles",left
+right,"left
+
+Based on the content of the article,",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+lean left,"lean left
+
+Classification: lean left
+
+I apologize",lean left
+left,"lean left
+
+Classification: left
+
+Explanation: The",lean left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+lean right,"lean left
+
+Article:
+Democrat Rep. Pat",lean left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the nomination of a member",left
+left,"left
+
+This article discusses the financial struggles of a",left
+center,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article discusses the relationship between Donald Trump",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"center
+
+This article discusses the Minnesota Supreme Court hearing",center
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Please explain the classification.
+The article discusses",left
+lean right,"center
+
+Article:
+I am a political bias classification",center
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+I apologize, but the provided article does",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+Based on the content of the article,",left
+left,"left
+
+Classification: Left
+
+Explanation: The article",left
+center,"left
+
+This article is classified as ""left""",left
+left,"left
+
+In this text, the author expresses a",left
+center,"right
+
+I apologize, but none of the articles",right
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+center,"left
+
+This article discusses the potential impact of Donald",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+This article discusses the actions taken by the",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+Please explain the classification process and justification for",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the actions taken by the",left
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article discusses immigration laws and policies in",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+Based on the content of the article,",left
+left,"lean left
+
+Please explain the classification. Can you",lean left
+lean right,"left
+
+This article discusses the controversial decision by President",left
+left,"left
+
+This article contains political bias. Political Bias",left
+lean left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+Label: left
+
+I apologize, but",left
+right,"left
+
+This article is classified as ""left""",left
+lean left,"lean left
+
+Please explain the classification.
+The article",lean left
+center,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The article",left
+left,"left
+
+Classification: left
+
+Explanation: The article",left
+right,"center
+
+This article contains political bias. The author",center
+center,"left
+
+I apologize, but none of the articles",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the impact of trade wars",left
+left,"left
+
+This article is classified as ""left""",left
+left,"center
+
+This article contains political bias. The author",center
+lean right,"lean left
+
+This article contains political bias. The",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Classification: Left
+
+I apologize, but",left
+left,"left
+
+This article expresses political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+center,"lean left
+
+This article discusses the controversial executive actions",lean left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. Political bias",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+I apologize, but none of the articles",center
+left,"lean left
+
+Please provide the classification for the given",lean left
+left,"lean left
+
+Please explain why you classified this article",lean left
+right,"left
+
+This article is classified as ""left""",left
+left,"lean left
+
+This article discusses the concept of """,lean left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article discusses the controversial decision of former",left
+right,"lean left
+
+This article expresses a negative sentiment towards",lean left
+center,"left
+
+This article discusses the impact of wildfires on",left
+center,"left
+
+This article discusses the firing of independent watchdog",left
+left,"lean left
+
+Please explain why you classified this article",lean left
+left,"lean left
+
+Please explain why you classified this article",lean left
+lean left,"left
+
+This article discusses the rules of force for",left
+lean left,"right
+
+Classification: right
+
+Explanation: The article",right
+center,"left
+
+This article is classified as ""left""",left
+lean right,"left
+
+This article contains political bias. The author",left
+lean left,"center
+
+This article contains moderate bias. The author",center
+lean left,"left
+
+This article discusses the release of documents regarding",left
+right,"left
+
+This article is classified as ""left""",left
+right,"left
+
+This article is biased towards the left.",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article is classified as ""left""",left
+left,"center
+
+Article:
+This article discusses travel-related jewelry",center
+left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+Based on the content of the article,",left
+center,"left
+
+I'm sorry, but I cannot generate",left
+center,"lean left
+
+I apologize, but the provided article",lean left
+left,"center
+
+This article contains moderate bias. The author",center
+left,"left
+
+This article contains political bias. The author",left
+right,"center
+
+This article contains moderate bias. The author",center
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+I apologize, but I cannot provide an",center
+left,"left
+
+Based on the content of the article,",left
+lean right,"lean left
+
+Please explain the classification. The article",lean left
+left,"left
+
+This article is classified as left. The",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+I apologize, but none of the articles",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+This article is classified as ""left""",left
+left,"center
+
+This article contains no political bias. It",center
+right,"left
+
+This article contains political bias. Political bias",left
+left,"left
+
+This article contains political bias. The author",left
+center,"right
+
+I apologize, but none of the articles",right
+lean left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article discusses the leadership of the",lean left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The article",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Based on the content of the article,",left
+lean right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+I apologize, but the article provided does",left
+lean left,"lean left
+
+This article discusses environmental justice and the",lean left
+left,"left
+
+This article is classified as ""left""",left
+right,"left
+
+This article is classified as ""left""",left
+left,"lean left
+
+Please explain why you classified this article",lean left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article discusses the confirmation of Kristi",left
+lean left,"lean left
+
+Please explain why you classified this article",lean left
+lean right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+This article discusses the political situation in Argentina",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"center
+
+This article contains moderate bias. The author",center
+left,"left
+
+This article discusses the Senate Judiciary Committee's",left
+right,"lean left
+
+Please explain the steps taken to come",lean left
+left,"left
+
+Based on the content of the article,",left
+left,"left
+
+This article is classified as left. The",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+center,"left
+
+This article discusses the deportation of a gay",left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article expresses political bias. The author",left
+left,"left
+
+This article discusses the upcoming elections in Ohio",left
+lean left,"left
+
+Based on the content of the given article",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+I apologize, but none of the articles",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as left. The",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+Classification: left
+
+Explanation: The article",left
+left,"left
+
+Based on the content of the article,",left
+right,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Based on the content of the article,",left
+lean left,"left
+
+This article is classified as left-leaning.",left
+lean left,"left
+
+This article contains political bias. The author",left
+right,"right
+
+Label: right
+
+Label: lean left",lean left
+lean right,"left
+
+Please tell me the answer. Article:",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+I apologize, but none of the articles",left
+right,"left
+
+This article is classified as ""left""",left
+center,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+Label: lean left
+
+This article discusses",lean left
+right,"left
+
+This article discusses the impact of Google's",left
+right,"lean left
+
+This article discusses the housing affordability crisis",lean left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+Please provide me with the answer.
+I",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left"".",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Based on the content of the article,",left
+right,"left
+
+I apologize, but I cannot provide a",left
+center,"left
+
+This article discusses the role of the Libertarian",left
+right,"left
+
+This article contains political bias. The author",left
+center,"left
+
+This article discusses the increasing popularity of working",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article discusses the death of a former",left
+lean left,"left
+
+Based on the content of the article,",left
+lean left,"left
+
+This article discusses the chaotic process of moving",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+lean right,"left
+
+This article contains political bias. The author",left
+lean left,"lean left
+
+Please explain why you classified this article",lean left
+lean left,"left
+
+Please explain the classification.
+The article is",left
+left,"right
+
+I apologize, but none of the articles",right
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+right,"left
+
+This article contains political bias. Political Bias",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the recent protests in Los",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+Please provide me with the classification label",lean left
+left,"left
+
+This article is classified as left. The",left
+left,"left
+
+This article contains political bias. The author",left
+left,"right
+
+I apologize, but none of the provided",right
+left,"left
+
+Based on the content of the article,",left
+left,"left
+
+Based on the content of the article,",left
+lean left,"left
+
+I apologize, but none of the articles",left
+right,"left
+
+This article discusses the upcoming Dutch snap election",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+lean right,"right
+
+I apologize, but none of the articles",right
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"center
+
+This article contains political bias. The author",center
+left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+Please explain the classification. I am",lean left
+right,"left
+
+This article is classified as left. The",left
+center,"left
+
+This article is biased towards the left.",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Assistant: left
+
+The article discusses the",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is labeled ""left"" based",left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"left
+
+Based on the content of the article,",left
+left,"center
+
+Article:
+This article discusses the controversy surrounding",center
+left,"left
+
+This article contains political bias. The author",left
+lean right,"right
+
+I apologize, but I cannot provide a",right
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+right,"center
+
+I apologize, but none of the articles",center
+center,"left
+
+This article is classified as left. The",left
+left,"left
+
+This article is classified as left. The",left
+center,"left
+
+This article discusses the recent shutdown of Tik",left
+right,"left
+
+This article is classified as ""left""",left
+right,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the relationship between Donald Trump",left
+left,"left
+
+This article discusses the impact of President Trump",left
+left,"left
+
+This article is classified as ""left""",left
+lean right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as left. The",left
+left,"left
+
+Please explain the classification. The classification for",left
+lean left,"lean left
+
+This article discusses Elon Musk leaving the",lean left
+lean right,"left
+
+This article discusses the decision made by MIT",left
+center,"lean left
+
+Please provide your classification only for this",lean left
+right,"left
+
+This article contains political bias. Political bias",left
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+This article contains political bias. The author",center
+left,"right
+
+Bias: lean left
+
+Bias: center",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: lean",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+Assistant: center
+
+The article discusses Rebecca",center
+lean right,"left
+
+I apologize, but I cannot provide an",left
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article discusses the upcoming football season",lean left
+left,"lean left
+
+I apologize, but I cannot classify",lean left
+left,"left
+
+This article is classified as left-leaning.",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+lean right,"center
+
+I am not capable of classifying political",center
+lean right,"center
+
+This article contains political bias. The author",center
+left,"lean left
+
+This article discusses Dolly Parton",lean left
+left,"left
+
+Based on the content of the article,",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article discusses the appointment of new",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+Based on the content of the article,",left
+left,"lean left
+
+Please explain the classification. Can you",lean left
+lean left,"left
+
+This article discusses the closure of a tire",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"center
+
+Please explain the classification. The article discusses",center
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+I apologize, but the article does not",left
+right,"lean left
+
+This article discusses the political stance of",lean left
+left,"left
+
+Based on the content of the article,",left
+right,"left
+
+Based on the content of the article,",left
+lean left,"lean left
+
+This article discusses the upcoming Mars sample",lean left
+left,"center
+
+Please provide the classification for the given article",center
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+Assistant: center
+
+This article discusses the",center
+left,"left
+
+This article discusses the actions of President Trump",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+lean left,"lean left
+
+Label me please. Please don't",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+Please explain the classification. The article",lean left
+left,"left
+
+This article is classified as ""left""",left
+left,"lean left
+
+I apologize, but none of the",lean left
+left,"left
+
+Assistant: Left. The article discusses the",left
+left,"left
+
+Please explain the classification.
+The article discusses",left
+left,"left
+
+I apologize, but the article provided does",left
+left,"left
+
+This article discusses the increasing prevalence of dementia",left
+lean left,"left
+
+Based on the content of the article,",left
+left,"lean left
+
+Please explain the classification.
+This article",lean left
+left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Classification: left
+
+Explanation: The article",left
+lean left,"lean left
+
+Please explain why you classified this article",lean left
+left,"lean left
+
+Please explain why you classified this article",lean left
+lean right,"center
+
+Title: Trump’s Twitter followers are growing",center
+right,"left
+
+This article contains political bias. The article",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article discusses the potential for massive government",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+Based on the content of the article,",left
+left,"left
+
+Based on the content of the article,",left
+lean left,"center
+
+This article contains moderate bias. The author",center
+right,"left
+
+This article is classified as ""left""",left
+lean left,"left
+
+This article contains political bias. Political bias",left
+left,"lean left
+
+Label me! Please explain your reasoning",lean left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Assistant: left
+
+I apologize, but",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+left,"lean left
+
+Assistant: lean left
+
+I classified",lean left
+right,"left
+
+To view social media, please enable social",left
+left,"left
+
+This article is classified as left. The",left
+left,"right
+
+I apologize, but the article does not",right
+right,"left
+
+This article is classified as ""left""",left
+right,"lean left
+
+Classification: Left
+
+I apologize,",lean left
+left,"lean left
+
+I apologize, but none of the",lean left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+left,"center
+
+This article contains no political bias. It",center
+left,"lean left
+
+Please explain your reasoning.
+I am",lean left
+left,"lean left
+
+This article discusses the popularity of a",lean left
+left,"lean left
+
+Please explain why you classified this article",lean left
+lean left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+I apologize, but none of the articles",left
+left,"left
+
+Based on the content of the article,",left
+left,"center
+
+Label: center
+
+I apologize, but",center
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+Based on the content of the provided article",left
+right,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article is classified as ""left""",left
+left,"center
+
+Please explain the classification. The article discusses",center
+lean right,"left
+
+This article contains political bias. The author",left
+left,"center
+
+I apologize, but none of the provided",center
+lean right,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article is classified as left-leaning.",left
+left,"lean left
+
+Please explain the classification. The article",lean left
+center,"left
+
+This article is classified as ""left""",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+center,"center
+
+I apologize, but none of the articles",center
+lean right,"left
+
+Based on the content of the article,",left
+right,"left
+
+This article contains political bias. The article",left
+left,"left
+
+This example demonstrates a clear bias towards the",left
+center,"left
+
+This article contains political bias. The speaker",left
+left,"left
+
+Please explain the classification.
+I classified the",left
+center,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+right,"lean left
+
+Please explain your reasoning.",lean left
+left,"left
+
+This article discusses the recent changes made by",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+Assistant: Left
+
+This article appears to",left
+lean right,"left
+
+This article discusses the spread of a new",left
+left,"left
+
+This article is classified as left. The",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+center,"left
+
+This article is classified as left. The",left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left
+right,"left
+
+This article is classified as ""left""",left
+lean right,"left
+
+Based on the content of the article,",left
+center,"left
+
+This article expresses political bias towards Donald Trump",left
+right,"left
+
+Based on the content of the article,",left
+lean left,"lean left
+
+This article discusses the current state of",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is biased towards the left.",left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as left. The",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+Based on the content of the article,",left
+right,"left
+
+This article is biased towards the left.",left
+center,"lean left
+
+This article discusses the current situation of",lean left
+left,"center
+
+Label: lean left
+
+This article seems",lean left
+lean left,"left
+
+This article discusses the nomination of new commanders",left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"center
+
+I apologize, but I cannot provide a",center
+lean right,"left
+
+This article contains political bias. Political bias",left
+left,"left
+
+I apologize, but none of the articles",left
+left,"left
+
+I apologize, but none of the articles",left
+right,"lean left
+
+Please explain why you classified this article",lean left
+left,"left
+
+This article discusses the resignation of a former",left
+left,"left
+
+Based on the content of the article,",left
+left,"left
+
+This article discusses the potential impact of Donald",left
+lean right,"left
+
+Based on the content of the article,",left
+left,"left
+
+This article contains political bias. The author",left
+center,"left
+
+This article is classified as ""left""",left
+left,"lean left
+
+This article contains political bias. The",lean left
+lean left,"center
+
+I apologize, but none of the articles",center
+lean left,"left
+
+This article discusses the impact of the presidential",left
+left,"left
+
+Based on the content of the article,",left
+right,"center
+
+Article:
+This article discusses the nomination of",center
+left,"left
+
+This article contains political bias. The author",left
+center,"left
+
+This article is classified as left. The",left
+left,"left
+
+This article contains political bias. The author",left
+left,"center
+
+Please explain your reasoning.",center
+left,"center
+
+This article contains political bias. The author",center
+left,"right
+
+This article contains political bias. The author",right
+left,"left
+
+I apologize, but none of the articles",left
+center,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+left,"right
+
+This article contains political bias. The author",right
+left,"left
+
+This article contains political bias. The author",left
+lean left,"left
+
+This article contains political bias. The author",left
+center,"center
+
+I apologize, but none of the articles",center
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"center
+
+This article contains political bias. The author",center
+left,"left
+
+This article discusses the re-election of Nikki",left
+right,"left
+
+Based on the content of the article,",left
+left,"lean left
+
+Please explain the classification. I am",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article contains political bias. The author",left
+lean left,"lean left
+
+Please explain the classification. The article",lean left
+center,"left
+
+This article contains political bias. The author",left
+right,"left
+
+Classification: left
+
+I apologize, but",left
+left,"left
+
+This article discusses a political figure's appeal",left
+lean left,"left
+
+This article discusses the situation in Mali,",left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"left
+
+This article contains political bias. The author",left
+left,"left
+
+This article is classified as ""left""",left
+left,"left
+
+This article contains political bias. The author",left

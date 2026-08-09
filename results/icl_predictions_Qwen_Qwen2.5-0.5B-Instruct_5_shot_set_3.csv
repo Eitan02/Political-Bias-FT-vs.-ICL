@@ -1,0 +1,3191 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"left
+
+Please explain the classification process and justification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+Bias: right
+Bias: center",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"right
+
+Classification: right
+
+Explanation: The article",right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"lean left
+
+Example 1:
+
+Title: Trump",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"left
+
+Label: lean left
+
+Label: center",lean left
+left,"center
+
+Classification: Center
+
+Classification: Right",right
+center,"left
+
+Label: lean left
+
+Explanation: The",lean left
+center,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+center,"right
+
+Please provide the classification label for the example",right
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"lean left
+
+To determine the political bias of the",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"center
+
+Classification: Center
+
+Classification: Right",right
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Please explain the classification process and justification",lean left
+center,"lean left
+
+Please provide me with the Chinese translation",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"center
+
+Classification: center
+
+Justification: The",center
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification. The article discusses",left
+left,"center
+
+Classification: center
+
+Justification: The",center
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification process.
+To classify",left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Bias: lean right
+
+Center",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification.
+The article contains",left
+right,"left
+
+Label: lean left
+
+Label: center",lean left
+right,"left
+
+Please provide your classification. You may choose",left
+left,"left
+
+Please provide your classification for the article.",left
+left,"lean left
+
+Bias: lean right
+
+Center",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"left
+
+Please explain the classification.
+The article does",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"lean left
+
+Article:
+The shooting trial against popular",lean left
+lean left,"center
+
+Classification: center
+
+Justification: The",center
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Classification: Centered Bias
+
+Justification",center
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"left
+
+Please classify the political bias of the above",left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"center
+
+Classification: center
+
+Justification: The",center
+left,"center
+
+Classification: Centered Bias
+
+Classification:",center
+left,"center
+
+Classification: Center
+
+Justification: The",center
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"left
+
+Please provide the classification for the article.",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Classification: Centered Bias
+
+Justification",center
+left,"left
+
+Please explain the classification.
+The article is",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+lean left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Please provide the classification for the given article",center
+lean left,"center
+
+Classification: center
+
+Explanation: The article",center
+center,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"left
+
+Please explain the classification.
+The article is",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"right
+
+Please provide the classification label for the article",right
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"center
+
+Article:
+The article discusses the political situation",center
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+center,"left
+
+Please explain the classification.
+The article is",left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification.
+The article does",left
+left,"right
+
+Please explain the classification.
+The article discusses",right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"center
+
+Classification: Center
+
+Justification: The",center
+left,"center
+
+Classification: center
+
+Piper French is",center
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+lean right,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"center
+
+Classification: Centered Bias
+
+Justification",center
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Classification: lean left
+
+Classification: center",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"left
+
+Please provide your classification. To determine the",left
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+To classify the political bias of the article",left
+lean right,"center
+
+Classification: center
+
+Explanation: While the",center
+lean right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Please explain the classification process.
+To classify",left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"lean left
+
+To determine the political bias of the",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"right
+
+Classification: center
+
+Explanation: The article",right
+left,"lean left
+
+Bias: lean right
+
+Center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Classification: Centered Bias
+
+Explanation:",center
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"center
+
+Classification: center
+
+Explanation: The article",center
+lean left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"left
+
+Please provide your classification for the article.",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification process.
+To classify",left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"left
+
+Please tell me the answer. The article",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Please provide your answer quickly and only",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"right
+
+Please provide the classification label for the example",right
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"center
+
+Please provide the text of the article.",center
+lean right,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"center
+
+Classification: Center
+
+Justification: The",center
+lean right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+center,"center
+
+Article:
+The policy of appeasement",center
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Please explain the classification.
+The article discusses",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To classify the",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Please explain the classification.
+The article contains",left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Article:
+In the last few decades",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"right
+
+Please provide the classification label for the given",right
+lean right,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"center
+
+Classification: center
+
+The article discusses the",center
+right,"left
+
+Label: lean left
+
+Label: center",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"left
+
+Please explain the classification.
+The article does",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+To classify the political bias of the",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"left
+
+Label: lean left
+
+Label: center",lean left
+right,"left
+
+Please classify the political bias of the above",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Please explain the classification process and justification for",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Article:
+Trump’s presidential campaign was",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Assistant: center
+
+The article discusses the",center
+left,"center
+
+Classification: Center
+
+Justification: The",center
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Classification: Center
+
+Justification: The",center
+left,"center
+
+Classification: center
+
+Justification: The",center
+lean left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"left
+
+Label: lean left
+
+Label: center",lean left
+lean left,"center
+
+Classification: center
+
+Explanation: The article",center
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Please provide your classification. Based on the",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+To classify the political bias of the",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please classify the article.
+To classify the",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+I'm",lean left
+center,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification process and justification for",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+To classify the political bias of the article",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"left
+
+Please explain the classification.
+The article is",left
+left,"right
+
+Please provide your classification for the given article",right
+right,"left
+
+Please explain the classification process and justification for",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Article:
+Trump's election as president",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification.
+The article is",left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+lean right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"center
+
+Classification: center
+
+Justification: The",center
+lean right,"left
+
+Please explain the classification process and justification for",left
+left,"left
+
+Please provide your classification for the given article",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"right
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+left,"left
+
+Please explain the classification.
+To classify the",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification process and justification for",left
+lean left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+lean left,"left
+
+Please explain the classification process and justification for",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your answer quickly! I am",left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Article:
+Israel signed a deal to",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+center,"left
+
+Please explain the classification process and how to",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"center
+
+Classification: Centered Bias
+
+Justification",center
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Explanation: The article discusses the housing",lean left
+right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+right,"lean left
+
+Article:
+President Donald Trump addresses troops",lean left
+left,"center
+
+Assistant: center
+
+The article discusses the",center
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+To determine the political bias of the",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"left
+
+Label: lean left
+
+Label: center",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+lean right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+lean left,"lean left
+
+Please explain the classification.
+The article",lean left
+lean left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Please explain the classification.
+The article is",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"center
+
+Please provide the text of the article.",center
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Please explain the classification.
+The article discusses",left
+lean left,"lean left
+
+Bias: lean right
+
+Center",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+lean right,"left
+
+Please explain the classification.
+The classification for",left
+left,"center
+
+Classification: Centered Bias
+
+Classification:",center
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"right
+
+Please provide your answer quickly! I am",right
+left,"center
+
+Assistant: center
+
+The article discusses the",center
+right,"center
+
+Article:
+The New York Times published a",center
+center,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"left
+
+Please explain the classification.
+The article contains",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Article:
+Trump's election as president",lean left
+center,"left
+
+Please explain the classification.
+The article contains",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Please explain the classification.
+The article is",left
+left,"left
+
+Please explain the classification process.
+To classify",left
+lean left,"lean left
+
+Explanation: The article discusses Elon Musk",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"right
+
+Please provide the classification label for the above",right
+right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+To classify the political bias of the",lean left
+left,"right
+
+Please explain the classification.
+The classification for",right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"right
+
+Classification: Right
+
+Explanation: The article",right
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please classify the following article:
+
+Title:",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Explain the machine learning model architecture and",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Article:
+Trump's new plan to ban",left
+right,"left
+
+Classification: lean left
+
+Classification: center",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"right
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"left
+
+Please explain the classification.
+The classification for",left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Please provide the classification label for the given",center
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"left
+
+Explanation: The article discusses President Donald Trump",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+right,"lean left
+
+Bias: lean right
+
+Center",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"right
+
+Please provide the classification label for the given",right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"right
+
+Classification: Right
+
+Justification: The",right
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"center
+
+Classification: center
+
+Explanation: The article",center
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Please provide your classification for the given",lean left
+left,"left
+
+Please provide the classification label for the example",left
+left,"left
+
+Please explain the classification process and justification for",left
+left,"left
+
+Please explain the classification.
+The article is",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"center
+
+Please provide the answer clearly and concis",center
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"right
+
+Please explain the classification of the example article",right
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"center
+
+Classification: Center
+
+Justification: The",center
+left,"center
+
+Classification: center
+
+Justification: The",center
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Article:
+The two right-wing billionaires",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain the classification process.
+The classification",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+right,"left
+
+Classification: lean left
+
+Classification: center",lean left
+right,"center
+
+Classification: Centered Bias
+
+Justification",center
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"right
+
+Please briefly describe the article.
+Title:",right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Please provide the classification label for the example",center
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+lean right,"left
+
+Please explain the classification.
+The article is",left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+left,"left
+
+Please provide the classification label for the article",left
+left,"center
+
+Classification: Centered Bias
+
+Explanation:",center
+left,"center
+
+Classification: Center
+
+Justification: The",center
+right,"left
+
+Label: lean left
+
+Label: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Classification: lean left
+
+Classification: right",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean right,"left
+
+Explain the answer. To classify the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Please provide me with another example of",lean left
+right,"left
+
+Classification: lean left
+
+Classification: center",lean left
+right,"left
+
+Please explain the classification process.
+To classify",left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+center,"center
+
+Article:
+The New York Times published a",center
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"center
+
+Classification: Centered Bias
+
+Justification",center
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Classification: lean left
+
+Classification: center",lean left
+left,"center
+
+Classification: Centered Bias
+
+Justification",center
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Assistant: center
+
+The article discusses Sacred",center
+left,"left
+
+Please explain the classification process and justification for",left
+left,"left
+
+Please classify the political bias of the above",left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"center
+
+Classification: Centered Bias
+
+Explanation:",center
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"left
+
+Please explain the classification.
+The article does",left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"center
+
+Label: center
+
+Label: lean left",lean left
+left,"right
+
+Please provide the classification for the given article",right
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+right,"left
+
+Please explain the classification process.
+To classify",left
+left,"left
+
+Please provide the classification for the given article",left
+center,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"center
+
+Please provide the answer clearly and concis",center
+left,"center
+
+Classification: Centered Bias
+
+Justification",center
+left,"right
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"center
+
+Classification: center
+
+The article discusses the",center
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"center
+
+Classification: Centered Bias
+
+Justification",center
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+To determine the political bias of the",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"center
+
+Classification: Center
+
+Justification: The",center
+left,"right
+
+Please provide the classification label for the given",right
+left,"left
+
+Label: lean left
+
+Label: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left

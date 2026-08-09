@@ -1,0 +1,2790 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**left**
+**lean left**",lean left
+left,"**left** 
+**lean left**",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+left,**Please provide your reasoning for your classification,invalid
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+lean right,"**left**
+**lean left**",lean left
+left,"**center** 
+
+**Explanation:**
+
+The",center
+right,"**right** 
+
+**left**",left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"left
+lean left
+center
+lean right",lean left
+left,"**left** 
+**lean left**",lean left
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+center,**Please provide the label you choose.**,invalid
+center,**Please select one of the following labels:**,invalid
+left,"**center**
+
+**Explanation:**
+
+The article",center
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"- left
+- lean left
+- center",lean left
+left,"**center** 
+
+**Explanation:**
+
+The",center
+center,"**center**
+
+**Explanation:**
+
+The article",center
+right,"left 
+lean left
+center
+lean",lean left
+right,"**center**
+
+**Explanation:**
+
+The article",center
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean left,"**left** 
+**lean left**",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**left** 
+
+**Explanation:**
+
+The",left
+lean right,**Please provide your reasoning for your classification.**,invalid
+left,"**left** 
+
+**lean left**",lean left
+left,"**left**
+
+**Explanation:**
+
+The article",left
+center,"**left**
+**lean left**",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**left** 
+**lean left**",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**right** 
+
+**Explanation:**
+
+The",right
+left,"right
+
+**Explanation:**
+
+The article focuses on",right
+left,"**lean right** 
+
+**Explanation:**",lean right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+right,"**left**
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+left,"**left**
+**lean left**",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"- left
+- lean left
+- center",lean left
+center,"**right** 
+
+**Explanation:**
+
+The",right
+right,"- left
+- lean left
+- center",lean left
+center,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean left** 
+
+**Explanation:**",lean left
+left,"- left
+- lean left
+- center",lean left
+lean right,"- left
+- lean left
+- center",lean left
+left,"**left** 
+**lean left**",lean left
+right,"**center**
+
+**Explanation:**
+
+The article",center
+right,"**left** 
+
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**left**
+**lean left**",lean left
+left,"right
+
+**Explanation:**
+
+The article focuses on",right
+right,"right
+
+**Explanation:**
+
+The article focuses on",right
+center,"- left
+- lean left
+- center",lean left
+lean left,"**left** 
+
+**lean left**",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+right,"- left
+- lean left
+- center",lean left
+right,"right
+
+**Explanation:**
+
+The article presents Ders",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"right
+
+**Explanation:**
+
+The article focuses on",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**center** 
+
+**Explanation:**
+
+The",center
+lean left,"**left** 
+**lean left**",lean left
+lean left,**right**,right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"- left
+- lean left
+- center",lean left
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**center** 
+
+**Explanation:**
+
+The",center
+right,"**left**
+
+**Explanation:**
+
+The article",left
+lean right,"**right** 
+
+**Explanation:**",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+left,"**left** 
+**lean left**",lean left
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**left**
+**lean left**",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+lean left,"left
+lean left
+center
+lean right",lean left
+left,"left
+lean left
+center
+lean right",lean left
+lean left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"**left**
+
+**Explanation:**
+
+The article",left
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+center,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right** 
+
+**Explanation:** The article",right
+lean left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+center,"left
+lean left
+center
+lean right",lean left
+center,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**left**
+**lean left**",lean left
+right,"- left
+- lean left
+- center",lean left
+lean left,"- left
+- lean left
+- center",lean left
+lean right,"right
+
+**Explanation:**
+
+The article focuses on",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left**
+**lean left**",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+right,"center
+
+**Explanation:**
+
+The article presents a",center
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"- left
+- lean left
+- center",lean left
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,**Please choose one of the following:**,invalid
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"right
+
+**Explanation:**
+
+The article focuses on",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right** 
+
+**Explanation:** The article",right
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+lean right,"- left
+- lean left
+- center",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**left** 
+**lean left**",lean left
+left,"**left** 
+
+**lean left**",lean left
+lean left,"**left** 
+
+**Explanation:**
+
+The",left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+right,"- left
+- lean left
+- center",lean left
+right,"**left**
+
+**Explanation:**
+
+The article",left
+center,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+center,"**left** 
+**lean left**",lean left
+center,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**lean right** 
+
+**Explanation:**",lean right
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**left**
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+center,"**left** 
+
+**lean left**",lean left
+lean left,"- left
+- lean left
+- center",lean left
+right,"left
+lean left
+center
+lean right",lean left
+left,"right
+
+**Explanation:**
+
+The article focuses on",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+center,"**left** 
+**lean left**",lean left
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**left** 
+
+**Explanation:**
+
+The",left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+lean left,"**right** 
+
+**Explanation:**
+
+The",right
+lean right,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**left**
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**left** 
+
+**lean left**",lean left
+center,"**right** 
+
+**Explanation:**
+
+The",right
+lean right,"- left
+- lean left
+- center",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right** 
+**lean right**",lean right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+right,"- left
+- lean left
+- center",lean left
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+right,"**left** 
+
+**Explanation:**",left
+lean right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean right,**Please select one of the following:**,invalid
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**lean left** 
+
+**Explanation:**",lean left
+left,"- left
+- lean left
+- center",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left** 
+**lean left**",lean left
+center,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean right** 
+
+**Explanation:**",lean right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean left,"**left** 
+**lean left**",lean left
+left,"**Lean left** 
+
+**Explanation:**",lean left
+lean right,"**left** 
+
+**lean left**",lean left
+left,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,**lean left**,lean left
+lean right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+center,"**left**
+**lean left**",lean left
+left,"**center** 
+
+**Explanation:**
+
+The",center
+center,"- left
+- lean left
+- center",lean left
+right,"**left** 
+**lean left**",lean left
+right,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+center,"**left** 
+**lean left**",lean left
+right,"**left** 
+**lean left**",lean left
+left,"**left** 
+
+**lean left**",lean left
+left,"**left** 
+
+**lean left**",lean left
+left,"**left** 
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**left**
+**lean left**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"- left
+- lean left
+- center",lean left
+lean right,"- left
+- lean left
+- center",lean left
+left,**Please classify the article's political bias,invalid
+right,**Please provide your reasoning for your classification,invalid
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**left** 
+**lean left**",lean left
+left,"**left** 
+
+**Explanation:**
+
+The",left
+lean right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"- left
+- lean left
+- center",lean left
+lean right,"**left**
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean left,"**right** 
+
+**Explanation:**
+
+The",right
+center,"right
+
+
+**Explanation:**
+
+The article presents a",right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+right,**Please provide your answer below.**,invalid
+right,"**left**
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**lean left**
+
+**Explanation:**
+
+The",lean left
+center,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean right,"- left
+- lean left
+- center",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean right** 
+
+**Explanation:**",lean right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+right,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"left
+lean left
+center
+lean right",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,**Please provide a brief explanation for your,invalid
+center,"**right**
+
+**Explanation:**
+
+The article",right
+left,"center
+
+**Explanation:**
+
+The article presents balanced",center
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**left** 
+**lean left**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**center** 
+
+**Explanation:**",center
+left,"- left
+- lean left
+- center",lean left
+left,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**left**
+**lean left**",lean left
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+center,"right
+
+**Explanation:**
+
+The article argues that",right
+center,"**lean right** 
+
+**Explanation:**",lean right
+left,"**center** 
+
+**Explanation:**
+
+The",center
+left,"**lean left** 
+
+**Explanation:**",lean left
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+lean left,"**center** 
+
+**Explanation:**
+
+The",center
+center,**Please provide your answer below.**,invalid
+lean right,"- left
+- lean left
+- center",lean left
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+lean left,"**left**
+**lean left**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**left** 
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+center,**Please provide the label and a brief,invalid
+center,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**center** 
+
+**Explanation:**
+
+The",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**left** 
+
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"left 
+
+lean left
+
+center
+
+lean",lean left
+lean right,"**center**
+
+**Explanation:**
+
+The article",center
+left,"- left
+- lean left
+- center",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"left 
+lean left
+center
+lean",lean left
+lean right,"- left
+- lean left
+- center",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+right,"left
+
+Lean left
+
+Center
+
+Lean right",lean left
+left,"**center** 
+
+**Explanation:**",center
+center,"- left
+- lean left
+- center",lean left
+lean left,"**center** 
+
+**Explanation:**",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"left 
+
+**Explanation:**
+
+The article",left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,**Please provide your reasoning for your classification,invalid
+left,"**left** 
+
+**lean left**",lean left
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"- left
+- lean left
+- center",lean left
+lean left,"**left** 
+
+**Explanation:**
+
+The",left
+left,"**left**
+**lean left**",lean left
+right,"**left** 
+**lean left**",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**left** 
+**lean left**",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+right,"- left
+- lean left
+- center",lean left
+lean left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean right,"**center**
+
+**Explanation:**
+
+The article",center
+left,**Please provide a brief explanation for your,invalid
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**left** 
+**lean left**",lean left
+right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+center,"- left
+- lean left
+- center",lean left
+lean left,"**left** 
+**lean left**",lean left
+left,"**left** 
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+lean left,"**right** 
+
+**Explanation:**
+
+The",right
+right,"left
+lean left
+center
+lean right",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**left** 
+**lean left**",lean left
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**left**
+**lean left**",lean left
+left,"left 
+
+**Explanation:**
+
+The article",left
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**left** 
+**lean left**",lean left
+right,"**left** 
+**lean left**",lean left
+lean right,**Please provide the reasoning for your classification,invalid
+right,"**left**
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+left,"**left**
+
+**Explanation:**
+
+The article",left
+right,"**left**
+**lean left**",lean left
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+center,"**left**
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,**lean right**,lean right
+left,"- left
+- lean left
+- center",lean left
+left,"**left** 
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+center,"- left
+- lean left
+- center",lean left
+right,"**right** 
+
+**Explanation:**
+
+The",right
+center,"**left**
+**lean left**",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**left** 
+**lean left**",lean left
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+lean left,"center
+
+**Explanation:**
+
+The article focuses on",center
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"center
+
+**Explanation:**
+
+The article focuses on",center
+lean right,"**left**
+**lean left**",lean left
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+lean left,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,**Please provide a brief explanation for your,invalid
+right,**Please select one of the following:**,invalid
+left,"**left** 
+
+**lean left**",lean left
+left,"**left** 
+**lean left**",lean left
+right,"- left
+- lean left
+- center",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"- left
+- lean left
+- center",lean left
+left,**Please select one of the following:**,invalid
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"right
+
+**Explanation:**
+
+The article focuses on",right
+right,"left 
+lean left
+center
+lean",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"- left
+- lean left
+- center",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+right,"- left
+- lean left
+- center",lean left
+center,**Please provide your reasoning for your classification.**,invalid
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**left** 
+
+**lean left**",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**Please select one:**
+- left",left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+right,"**left**
+**lean left**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+center,"**left** 
+**lean left**",lean left
+right,"**left** 
+
+**lean left**",lean left
+right,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"left 
+
+lean left
+
+center
+
+lean",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"right
+
+**Explanation:**
+
+The article presents a",right
+left,"**Answer:** center 
+
+**Explanation",center
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**left** 
+**lean left**",lean left
+center,"**lean left** 
+
+**Explanation:**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left** 
+
+**lean left**",lean left
+left,"- left
+- lean left
+- center",lean left
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**center** 
+
+**Explanation:**
+
+The",center
+lean right,**Please provide your answer and reasoning.**,invalid
+right,"left 
+
+lean left
+
+center
+
+lean",lean left
+left,"**left** 
+
+**lean left**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"left
+
+**Explanation:**
+
+The article presents",left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left** 
+**lean left**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**left** 
+**lean left**",lean left
+lean right,"**left** 
+
+**lean left**",lean left
+left,"**center** 
+
+**Explanation:**
+
+The",center
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"- left
+- lean left
+- center",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+lean left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"- left
+- lean left
+- center",lean left
+lean right,"- left
+- lean left
+- center",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"- left
+- lean left
+- center",lean left
+left,"**left** 
+
+**Explanation:**
+
+The",left
+left,"**left** 
+**lean left**",lean left
+lean right,"- left
+- lean left
+- center",lean left
+left,"left 
+lean left
+center
+lean",lean left
+left,"**center** 
+
+**Explanation:**",center
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"- left
+- lean left
+- center",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"right
+
+**Explanation:**
+
+The article presents a",right
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**lean right** 
+
+**Explanation:**",lean right
+left,"center
+
+**Explanation:**
+
+The article presents factual",center
+left,"**left** 
+**lean left**",lean left
+left,"**left** 
+
+**lean left**",lean left
+right,"**left**
+**lean left**",lean left
+lean left,"**right**
+
+**Explanation:** The article focuses",right
+left,"**center** 
+
+**Explanation:**",center
+left,"**center** 
+
+**Explanation:**",center
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"center
+
+
+**Explanation:**
+
+The article focuses on",center
+left,"**left** 
+
+**Explanation:**
+
+The",left
+left,**left**,left
+left,"**left** 
+**lean left**",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"center
+
+**Explanation:**
+
+The article presents factual",center
+lean left,"**left**
+**lean left**",lean left
+left,**right**,right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**left** 
+**lean left**",lean left
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**center**
+
+**Explanation:**
+
+The article",center
+lean right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+right,"- left
+- lean left
+- center",lean left
+right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"right
+
+
+**Explanation:**
+
+The article focuses on",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"- left
+- lean left
+- center",lean left
+lean left,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"left
+lean left
+center
+lean right",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**left** 
+**lean left**",lean left
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left**
+
+**Explanation:**
+
+The article",left
+right,"**left**
+**lean left**",lean left
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"right
+
+**Explanation:**
+
+The article criticizes",right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean right,**Please provide your reasoning for your classification.**,invalid
+left,"- left
+- lean left
+- center",lean left
+left,"**left** 
+**lean left**",lean left
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean right,"- left
+- lean left
+- center",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"right
+
+
+**Explanation:**
+
+The article focuses on",right
+left,"**lean left**
+
+**Explanation:**
+
+The",lean left
+center,"**left** 
+**lean left**",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+right,**Please select one of the following:**,invalid
+right,"**right**
+
+**Explanation:**
+
+The article",right
+center,"- left
+- lean left
+- center",lean left
+lean right,"**right**
+
+**Explanation:**
+
+The article",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+center,"**right** 
+
+**Explanation:**",right
+left,"- left
+- lean left
+- center",lean left
+center,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**left**
+**lean left**",lean left
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"**center**
+
+**Explanation:**
+
+The article",center
+center,"**right** 
+
+
+**Explanation:**
+
+The",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"- left
+- lean left
+- center",lean left
+left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+lean right,"right
+
+**Explanation:**
+
+The article focuses on",right
+center,"**right** 
+
+**Explanation:**
+
+The",right
+right,"- left
+- lean left
+- center",lean left
+lean left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"- left
+- lean left
+- center",lean left
+left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**right** 
+
+**Explanation:**
+
+The",right
+right,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"- left
+- lean left
+- center",lean left
+lean right,"center
+
+**Explanation:**
+
+The article focuses on",center
+right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+lean right,"- left
+- lean left
+- center",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+left,"- left
+- lean left
+- center",lean left
+right,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"left 
+lean left
+center
+lean",lean left
+left,"left 
+
+lean left
+
+center
+
+lean",lean left
+lean right,"right
+
+**Explanation:**
+
+The article focuses on",right
+left,"**center** 
+
+**Explanation:**",center
+center,"**left**
+**lean left**",lean left
+left,"**right** 
+
+**Explanation:**
+
+The",right
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**center**
+
+**Explanation:**",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+right,"- left
+- lean left
+- center",lean left
+left,"**lean left** 
+
+
+**Explanation:**",lean left
+center,"**left** 
+**lean left**",lean left
+left,"**left**
+
+**Explanation:**
+
+The article",left
+left,"**center** 
+
+**Explanation:**
+
+The",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**center** 
+
+**Explanation:**
+
+The",center
+left,"**left**
+**lean left**",lean left
+left,"**center** 
+
+**Explanation:**",center
+lean left,"**right**
+
+**Explanation:**
+
+The article",right
+center,"**left** 
+
+**lean left**",lean left
+right,"**lean right** 
+
+**Explanation:**",lean right
+lean right,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**left**
+**lean left**",lean left
+right,"**right** 
+
+**Explanation:**
+
+The",right
+left,"**center**
+
+**Explanation:**
+
+The article",center
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+lean left,"**right** 
+
+**Explanation:**
+
+The",right
+center,"**right** 
+
+**Explanation:**
+
+The",right
+right,"- left
+- lean left
+- center",lean left
+left,"left 
+lean left
+center
+lean",lean left
+lean left,"**lean right**
+
+**Explanation:**
+
+The",lean right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,**right**,right
+left,"**right**
+
+**Explanation:**
+
+The article",right
+left,"**left**
+
+**Explanation:** The article focuses",left

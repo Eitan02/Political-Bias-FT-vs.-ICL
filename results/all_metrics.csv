@@ -1,0 +1,19 @@
+Method,Model,Training Data,Shots,Accuracy,Macro-F1,Invalid Rate,Inference Time Seconds,Seconds Per Article
+Baseline,Majority Class,100%,N/A,0.530435,0.138636,0,,
+Baseline,TF-IDF + Logistic Regression,100%,N/A,0.755072,0.607089,0,,
+Fine-Tuning,Qwen_Qwen2.5-0.5B-Instruct_100_percent,100%,N/A,0.826087,0.710874,0,240.1724,0.348076
+Fine-Tuning,Qwen_Qwen2.5-0.5B-Instruct_10_percent,10%,N/A,0.518841,0.202733,0.001449,224.3684,0.325172
+Fine-Tuning,Qwen_Qwen2.5-0.5B-Instruct_1_percent,1%,N/A,0.530435,0.146832,0.001449,250.6108,0.363204
+Fine-Tuning,Qwen_Qwen2.5-0.5B-Instruct_25_percent,25%,N/A,0.615942,0.304734,0,216.9255,0.314385
+Fine-Tuning,Qwen_Qwen2.5-0.5B-Instruct_50_percent,50%,N/A,0.668116,0.451986,0,230.5537,0.334136
+Fine-Tuning,Qwen_Qwen2.5-0.5B-Instruct_5_percent,5%,N/A,0.530435,0.138768,0,214.7085,0.311172
+ICL,Qwen/Qwen2.5-0.5B-Instruct,None,0,0.211594,0.126886,0.005797,99.54968,0.144275
+ICL,Qwen/Qwen2.5-0.5B-Instruct,None,1,0.121739,0.04532,0,351.5069,0.50943
+ICL,Qwen/Qwen2.5-0.5B-Instruct,None,3,0.273913,0.147888,0,513.6059,0.744356
+ICL,Qwen/Qwen2.5-0.5B-Instruct,None,5,0.210145,0.110313,0,545.0057,0.789863
+ICL,Qwen/Qwen2.5-0.5B-Instruct,None,10,0.123188,0.098459,0,581.5209,0.842784
+ICL,google/gemma-2-2b-it,None,0,0.181159,0.158909,0.031884,258.9233,0.375251
+ICL,google/gemma-2-2b-it,None,1,0.202899,0.128082,0.011594,1131.28,1.639536
+ICL,google/gemma-2-2b-it,None,3,0.24058,0.153357,0.002899,1457.352,2.112104
+ICL,google/gemma-2-2b-it,None,5,0.243478,0.150385,0.001449,1559.986,2.26085
+ICL,google/gemma-2-2b-it,None,10,0.234783,0.173202,0.002899,1617.579,2.344318

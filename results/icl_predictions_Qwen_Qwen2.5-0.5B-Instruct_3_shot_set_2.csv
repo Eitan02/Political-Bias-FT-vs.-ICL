@@ -1,0 +1,2420 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"lean left
+
+Please provide your answer as per the",lean left
+left,"left
+
+Please provide your answer quickly! I am",left
+lean left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification. Example output",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"left
+
+Assistant: Left
+
+The article discusses political",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+lean right,"left
+
+Please provide me with the text and your",left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+right,"left
+
+To classify the political bias of the given",left
+left,"lean left
+
+Explanation: The article discusses a man",lean left
+lean left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"left
+
+Please provide your classification. I classified this",left
+center,"left
+
+To determine the political bias of the given",left
+center,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide me with the classification label for",left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"right
+
+Please provide your classification.",right
+right,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Please provide your classification. To determine the",left
+lean left,"left
+
+Explanation of the classification: The article discusses",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+lean right,"left
+
+Please provide your answer quickly and correctly.",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+center,"lean left
+
+To provide context, I am trained",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your classification for the given",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+To determine whether the article contains political",lean left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"lean left
+
+Please provide your classification.",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain your reasoning.
+- left:",left
+center,"lean left
+
+Please provide your answer and explanation.",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"right
+
+Please provide your classification. To determine the",right
+lean right,"lean left
+
+Example 3:
+
+Title: Trump",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Please explain the classification.
+The article does",left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+To determine the political bias of the",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Example 1:
+
+Title: Trump",lean left
+left,"lean left
+
+Please provide the classification label for the",lean left
+right,"lean left
+
+To determine the political bias of the",lean left
+center,"left
+
+Please provide me with the classification label for",left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your classification for the given article",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+center,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Please provide your answer quickly! I need",left
+right,"left
+
+Please justify your answer.
+The article discusses",left
+left,"left
+
+Please justify your answer.
+Based on the",left
+left,"lean left
+
+To determine the political bias of the",lean left
+right,"lean left
+
+Please provide your classification. Example:",lean left
+lean left,"left
+
+Please provide your answer quickly and correctly.",left
+right,"left
+
+Please provide your answer quickly! I am",left
+lean right,"lean left
+
+Please provide your classification. I classified",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+To determine the political bias of the",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Justification:",lean left
+left,"left
+
+Please provide your classification. To classify the",left
+left,"left
+
+Please provide your answer quickly! I want",left
+lean right,"right
+
+Example 1:
+
+Title: The",right
+left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"left
+
+Please provide your classification.",left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"left
+
+Please provide your classification.",left
+right,"left
+
+Please justify your answer.
+The article does",left
+lean right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Explanation of the classification: This article contains",left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+Please provide your classification.",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"right
+
+Example 1:
+
+Title: Trump's",right
+left,"left
+
+Please provide your classification. To determine the",left
+lean right,"lean left
+
+Please provide your answer as per the",lean left
+lean right,"lean left
+
+Example 1:
+
+Title: The",lean left
+left,"right
+
+To classify the political bias of the given",right
+lean left,"left
+
+Please provide the answer and explanation of your",left
+left,"left
+
+To classify the political bias of the given",left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your classification.",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"left
+
+Please provide me with the answer.
+Classification",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+center,"lean left
+
+Please provide your answer as per the",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Please provide your classification.",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your answer quickly! Here's",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+lean right,"lean left
+
+Please provide your answer quickly! I",lean left
+right,"lean left
+
+Please provide your classification. Example output",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+center,"left
+
+Please provide your classification. To determine the",left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide me with the text of the",left
+lean left,"left
+
+Please provide your answer as per the instructions",left
+lean right,"lean left
+
+Please provide your classification. Example",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"lean left
+
+Please explain the classification.
+The article",lean left
+right,"lean left
+
+To determine the political bias of the",lean left
+lean right,"left
+
+Please provide your answer quickly and correctly.",left
+lean left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+Please provide me with the text you would",left
+left,"left
+
+Assistant: Left
+
+The article discusses the",left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+right,"lean left
+
+To determine the political bias of the",lean left
+left,"lean left
+
+To determine the political bias of the",lean left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Assistant: Left
+
+The article discusses the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+lean right,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+left,"lean left
+
+Please provide your answer and explanation.",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide a classification for the given article",left
+lean left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+lean left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your answer quickly! I am",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please provide your answer quickly! I want",left
+left,"left
+
+Assistant: Left
+
+The article discusses the",left
+right,"left
+
+Please explain your reasoning.
+The article does",left
+right,"left
+
+Classification: Left
+
+Explanation: This article",left
+center,"lean left
+
+Example 1:
+
+Title: The",lean left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+center,"lean left
+
+Please provide me with the classification.",lean left
+center,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification for the article",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+To classify the political bias of the given",left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"left
+
+Assistant: left
+
+The article discusses a",left
+left,"left
+
+Please provide your answer quickly! Here's",left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"lean left
+
+To determine the political bias of the",lean left
+right,"left
+
+To view social media enable social cookies",left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please explain the classification.
+The article",lean left
+center,"lean left
+
+Explanation: The article discusses a situation",lean left
+left,"lean left
+
+Please provide your answer quickly and correctly",lean left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To classify the",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer quickly! ...",lean left
+lean right,"right
+
+Example 3:
+
+Title: Trump administration",right
+left,"lean left
+
+Example 2:
+
+Title: '",lean left
+right,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+lean left,"left
+
+Please provide the classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer as per the",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please explain why you classified this article as",left
+center,"lean left
+
+Please provide your classification. To determine",lean left
+lean right,"left
+
+Please provide me with the text and your",left
+left,"left
+
+Please explain your reasoning.
+The article does",left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your answer as per the",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer quickly! ...",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+To determine whether the article contains political",lean left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+lean right,"left
+
+Please provide your answer quickly! I want",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Please provide me with the classification label for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Please provide your classification.",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Please provide your classification.",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification.",left
+lean right,"right
+
+Example 1:
+
+Title: The most",right
+left,"left
+
+Please provide me with the classification label for",left
+left,"lean left
+
+Please provide your answer quickly! ...",lean left
+left,"left
+
+Please provide your classification.",left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification.",left
+center,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please justify your answer.
+The article discusses",left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Explanation of the classification: This article",lean left
+center,"lean left
+
+Please provide your classification label. To",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"left
+
+Please provide your answer as per the instructions",left
+right,"left
+
+Please provide your classification. If you cannot",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"left
+
+Please provide your answer quickly! I want",left
+lean right,"left
+
+Please provide your classification. To determine the",left
+left,"right
+
+Example 3:
+
+Title: Trump administration",right
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please explain your reasoning.
+The article does",left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Explanation of the classification: The article",lean left
+lean left,"left
+
+Explanation: The article discusses President Trump signing",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Explanation of the classification: This article",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your answer quickly! I want",left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+To classify the political bias of the",lean left
+lean right,"left
+
+Please provide your answer quickly! Here's",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide me with the label for the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+lean right,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please provide your answer quickly! I",lean left
+lean left,"left
+
+Please provide your classification. To classify the",left
+left,"left
+
+Please explain the classification.
+The article presents",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Based on the content of the article,",left
+center,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer as per the",lean left
+lean left,"left
+
+Please provide your answer quickly and correctly.",left
+right,"left
+
+Please justify your answer.
+Based on the",left
+left,"left
+
+Example 2:
+
+Title: 'NULL",left
+left,"left
+
+Please provide your answer quickly! I need",left
+left,"left
+
+Explanation for a five-year old: This",left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your answer quickly! ...
+Based",left
+left,"lean left
+
+Please provide your classification.",lean left
+left,"left
+
+Assistant: Left
+
+The article discusses President",left
+right,"lean left
+
+Example 2:
+
+Title: '",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+center,"left
+
+Please explain the classification.
+The classification for",left
+center,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification.",left
+left,"lean left
+
+Please provide your classification.",lean left
+lean left,"left
+
+Please explain the classification.
+The article does",left
+lean left,"lean left
+
+Please provide your classification. To determine",lean left
+center,"left
+
+Please provide your answer quickly and correctly.",left
+lean right,"left
+
+Please provide your answer quickly and correctly.",left
+lean left,"right
+
+Classification: center
+
+Explanation: This article",right
+lean left,"left
+
+Please provide your answer quickly! I want",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Please justify your answer.
+The article does",left
+left,"left
+
+Please provide your classification for the given article",left
+right,"left
+
+Please justify your answer.
+Based on the",left
+left,"left
+
+Classification: lean left
+
+Classification: right",lean left
+left,"lean left
+
+Please provide me with the list of",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification. Example:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"left
+
+To determine the political bias of the given",left
+center,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"left
+
+Please provide your answer quickly! I am",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: The",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your answer quickly! ...
+Based",left
+left,"left
+
+To classify the political bias of the given",left
+lean right,"left
+
+Please provide me with the text.
+Sorry",left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"left
+
+Please provide me with the classification label for",left
+lean left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. Example classification",lean left
+lean right,"left
+
+Please justify your answer.
+Based on the",left
+left,"left
+
+To classify the political bias of the given",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+To classify the political bias of the given",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"right
+
+Example 3:
+
+Title: Trump's",right
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"left
+
+Please provide your answer quickly! I am",left
+right,"lean left
+
+Example 1:
+
+Title: Trump",lean left
+lean left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean right,"left
+
+Please provide your answer quickly! I want",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+lean left,"left
+
+Please explain your reasoning.
+The article discusses",left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"left
+
+Please explain the classification.
+The classification for",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+To classify the political bias of the article",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"left
+
+Please provide your answer quickly! I want",left
+lean left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"right
+
+Please provide your answer quickly! I want",right
+lean left,"left
+
+Please provide me with the text and your",left
+left,"left
+
+Please provide your answer quickly! Here's",left
+lean left,"left
+
+Please provide your answer quickly! I want",left
+right,"left
+
+Please explain the classification.
+The classification for",left
+left,"left
+
+Explanation of the classification: This article contains",left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer immediately, without",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"left
+
+Please provide your answer quickly! I want",left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"right
+
+Example 1:
+
+Title: New York",right
+lean right,"lean left
+
+Nadav Eyal: """,lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Explanation of the classification: This article contains",left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your answer quickly! I want",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+center,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Assistant: lean left Example 1",lean left
+left,"right
+
+Classification: lean left
+
+Explanation: This",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+right,"lean left
+
+Please provide your answer immediately, without",lean left
+right,"left
+
+Please explain the classification.
+The article does",left
+right,"left
+
+To determine the political bias of the given",left
+left,"left
+
+Please provide your classification.",left
+left,"left
+
+To classify the political bias of the given",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+To determine the political bias of the",lean left
+center,"left
+
+Please provide your answer quickly! Here's",left
+right,"lean left
+
+Please provide your answer as per the",lean left
+center,"lean left
+
+To whom would this article be most",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"left
+
+Please provide your answer quickly! I am",left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Please provide your classification for the given",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"left
+
+Please justify your answer.
+Based on the",left
+lean right,"lean left
+
+To determine the political bias of the",lean left
+lean left,"lean left
+
+Please provide your classification.",lean left
+lean left,"left
+
+Please provide me with the text of the",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"lean left
+
+Example 1:
+
+Title: Trump",lean left
+right,"left
+
+Please provide the answer and explanation of your",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your answer quickly! I want",left
+right,"right
+
+Example 1:
+
+Title: Trump’s",right
+left,"lean left
+
+Please provide your classification label.",lean left
+left,"lean left
+
+To classify the political bias of the",lean left
+left,"left
+
+Explanation of the answer:
+
+The article discusses",left
+left,"right
+
+Example 1:
+
+Title: The most",right
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"left
+
+Please provide your classification.",left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"left
+
+Please provide your answer quickly! I want",left
+center,"lean left
+
+To classify the political bias of the",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please explain the classification.
+The classification for",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+To classify the political bias of the",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please explain your reasoning.
+The article presents",left
+lean right,"right
+
+Example 3:
+
+Title: Trump administration",right
+left,"lean left
+
+To classify the given article, I",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"lean left
+
+To determine the political bias of the",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"right
+
+To classify the political bias of the given",right
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer quickly! ...",lean left
+lean right,"right
+
+Example 1:
+
+Title: The world",right
+center,"lean left
+
+Please provide your classification rationale.",lean left
+right,"lean left
+
+Example 1:
+
+Title: Trump",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"right
+
+Example 3:
+
+Title: Trump administration",right
+lean left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+left,"lean left
+
+Please provide your answer quickly and correctly",lean left
+lean right,"lean left
+
+To determine the political bias of the",lean left
+right,"left
+
+Please justify your answer.
+The article does",left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+right,"left
+
+Please explain your reasoning.
+The article does",left
+left,"left
+
+Please provide your classification. To classify the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Explanation: The article discusses the Trump",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+lean right,"lean left
+
+Example 1:
+
+Title: New",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Example 1:
+
+Title: '",lean left
+left,"left
+
+Please provide your answer quickly! I want",left
+left,"lean left
+
+Please provide your classification. I classified",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your answer quickly! I want",left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your classification.",left
+lean left,"left
+
+Please provide me with the text and your",left
+lean right,"left
+
+Please provide your answer quickly! Here's",left
+left,"left
+
+Please explain your reasoning.
+The article does",left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+lean right,"left
+
+Explanation of the classification: This article contains",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your answer quickly! I want",left
+left,"lean left
+
+Article:
+A new study suggests that",lean left
+left,"left
+
+Explanation: This article contains no overtly",left
+right,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+Bias: lean right
+Bias:",lean left
+lean left,"lean left
+
+Please provide your answer and explanation.",lean left
+left,"left
+
+Please provide your classification.",left
+left,"lean left
+
+Please provide your answer as per the",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Example 1:
+
+Title: '",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+lean left,"right
+
+Please provide your classification.",right
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. Example output",lean left
+left,"lean left
+
+Please provide your classification. Example output",lean left
+left,"left
+
+Please provide me with the classification. To",left
+left,"lean left
+
+Please provide your answer as per the",lean left
+left,"lean left
+
+Please provide your classification.",lean left
+left,"left
+
+Please provide your answer quickly! I want",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"left
+
+Please provide your classification. To classify the",left
+left,"lean left
+
+Please provide your classification.",lean left
+left,"left
+
+Please provide me with the label for the",left
+left,"lean left
+
+To determine the political bias of the",lean left
+right,"left
+
+Please justify your answer.
+The article discusses",left
+lean left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"left
+
+Please provide your classification.",left
+left,"left
+
+Please provide your answer quickly! I want",left
+lean left,"lean left
+
+Classification: lean left
+
+Justification",lean left
+left,"lean left
+
+Please explain your reasoning.
+- Label",lean left
+lean right,"lean left
+
+Please provide your classification. To classify",lean left
+right,"left
+
+Please explain your reasoning.
+The article does",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your answer quickly! I am",left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification.",lean left
+lean left,"lean left
+
+Please provide your answer quickly! ...",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"left
+
+Please explain the classification.
+The classification for",left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+right,"lean left
+
+To view social media, you must",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Please provide your classification for the given article",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your answer quickly and be accurate",left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Please provide your classification rationale.
+R",lean left
+lean left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"left
+
+Please provide me with the text of the",left
+left,"left
+
+Please provide your answer and explanation.
+-",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"right
+
+Classification: lean left
+
+Explanation: This",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+right,"left
+
+Please provide your answer quickly and correctly.",left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+right,"right
+
+Please provide your classification. To determine the",right
+left,"left
+
+Please provide your answer quickly and correctly.",left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+lean right,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Please provide the classification for the given",lean left
+center,"lean left
+
+Please provide me with another example of",lean left
+right,"left
+
+Please provide your answer quickly and correctly.",left
+right,"left
+
+Please provide me with the classification label for",left
+right,"lean left
+
+To determine the political bias of the",lean left
+center,"left
+
+Please provide your classification. To determine the",left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"lean left
+
+Example 1:
+
+Title: The",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"lean left
+
+Please provide your classification. I classified",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer quickly! ...",lean left
+right,"lean left
+
+Please explain your reasoning.
+The article",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Classification: lean left
+
+Justification:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"left
+
+Please provide your classification.",left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+lean right,"lean left
+
+Please provide your classification. To determine",lean left
+center,"lean left
+
+Please provide your classification. To determine",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"lean left
+
+Please provide your classification. Example:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Explanation for a five-year old: This",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+lean left,"lean left
+
+Please provide your answer quickly! I",lean left
+right,"left
+
+Please provide your classification. To determine the",left
+center,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Classification: lean left
+
+Explanation: This",lean left
+lean left,"left
+
+Please provide your answer quickly! I need",left
+lean right,"lean left
+
+Please provide your answer quickly! ...",lean left
+right,"left
+
+Please provide your answer quickly! I am",left
+lean right,"right
+
+Example 1:
+
+Title: New York",right
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"lean left
+
+Please provide your classification.",lean left
+left,"right
+
+Please provide the English translation of the given",right
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"left
+
+Please justify your answer.
+Based on the",left
+lean right,"lean left
+
+Please provide your classification. To classify",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+center,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide the classification label for the given",left
+lean left,"left
+
+Please provide your answer quickly! I'm",left
+lean left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+right,"left
+
+Please provide your answer quickly! I want",left
+left,"left
+
+Please provide your classification.",left
+center,"left
+
+Assistant: Left Example 1:
+
+Title",left
+left,"lean left
+
+Please provide your classification. To classify",lean left
+left,"left
+
+Please provide your classification.",left
+left,"left
+
+Please provide your analysis below.
+Analysis:",left
+left,"left
+
+Please provide your classification.",left
+left,"lean left
+
+Example 1:
+
+Title: Trump",lean left
+center,"lean left
+
+Explanation: This article contains significant bias",lean left
+left,"left
+
+Please provide your answer quickly! I am",left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"left
+
+Please provide your classification. To determine the",left
+lean left,"lean left
+
+Please provide your answer step-by-step",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Please provide your classification. To determine",lean left
+lean right,"right
+
+To classify the political bias of the given",right
+left,"left
+
+Please provide your classification. To classify the",left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Classification: lean left
+
+Justification:",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+To determine the political bias of the",lean left
+lean left,"lean left
+
+Please provide your answer step-by-step",lean left
+center,"lean left
+
+Please provide your classification. I classified",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"left
+
+Please provide your answer quickly and correctly.",left
+lean left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Classification: lean left
+
+Justification",lean left
+left,"lean left
+
+Please provide your classification.",lean left
+left,"left
+
+Please provide your classification. To determine the",left
+left,"lean left
+
+Please provide your classification. To determine",lean left

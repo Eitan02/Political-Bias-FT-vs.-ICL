@@ -1,0 +1,2803 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+I apologize",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"left
+
+Label: lean left
+
+Explanation: This",lean left
+lean right,"lean left
+
+Please let me know if you want",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+center,"lean left
+
+This article does not contain any biased",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation of label choice: The article",lean left
+lean left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This article expresses political bias towards the",lean left
+center,"lean left
+
+Please enter your response only once for",lean left
+left,"lean left
+
+This example demonstrates the ability to accurately",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left Example 2",lean left
+left,"lean left
+
+Label: lean left
+
+I classified",lean left
+center,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Sure, here is the classification based",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example has been labeled as left",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+center,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+center,"lean left
+
+Label: lean left Example 2",lean left
+left,"lean left
+
+This example demonstrates a strong left-leaning",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This example has no political bias.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+This example demonstrates the use of political",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+My classification",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation of label choice:
+The article",lean left
+right,"lean left
+
+This article contains no political bias.",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+lean right,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+This example demonstrates a strong left-leaning",lean left
+left,"lean left
+
+This article does not contain any explicit",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Please let me know if you want",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Sure, let me analyze the article",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any overt",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: left
+
+Explanation: The",lean left
+left,"lean left
+
+This example shows a different type of",lean left
+lean right,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+Sure, here is the classification based",lean left
+center,"lean left
+
+This example demonstrates a negative political bias",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+This article contains no political bias.",lean left
+left,"lean left
+
+This example demonstrates a clear case of",lean left
+left,"lean left
+
+Sure, let me analyze the article",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example demonstrates a different political perspective",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+center,"left
+
+Label: lean left
+
+Explanation: The",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Sure, let me analyze the article",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Label: left
+
+Explanation: The",lean left
+lean left,"lean left
+
+Label: left
+
+Explanation: This",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+lean right,"lean left
+
+This article does not appear to contain",lean left
+left,"lean left
+
+This article does not contain any explicit",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: left
+
+Explanation: The",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+My thought",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article contains no explicit or implicit",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain enough information",lean left
+lean left,"lean left
+
+Label: lean left
+
+My classification",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This example demonstrates a clear case of",lean left
+left,"lean left
+
+This article contains political bias. It",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Explanation of label choice:
+The article",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+lean right,"lean left
+
+This article contains political bias. The",lean left
+lean right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+This article does not contain any biased",lean left
+lean left,"lean left
+
+This example has been classified as left",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+right,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+Example 2:
+
+Title: New",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean right
+
+Label: right
+
+Label: left",lean right
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+Label: lean left
+
+My classification",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Example 2:
+
+Title: '",lean left
+right,"lean left
+
+This article contains political bias. The",lean left
+lean left,"lean left
+
+This example demonstrates a clear case of",lean left
+left,"lean left
+
+Example 2:
+
+Title: New",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+This article does not contain any biased",lean left
+lean right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Explanation of label choice: The article",lean left
+right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+lean left,"lean left
+
+Please explain the classifier decision for this",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+This article does not contain any overt",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+lean right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any bias",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+My classification",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+I apologize",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+This article has no political bias.",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article contains no explicit or implicit",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+This article contains political bias. It",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"left
+
+Label: left
+
+Explanation: This article",left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+lean right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+Example 2:
+
+Title: New",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+Sure, let me analyze the article",lean left
+lean right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Explanation of label choice: The article",lean left
+lean left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Please let me know if there are",lean left
+left,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+This article does not contain any bias",lean left
+lean left,"lean left
+
+Label: lean left Example 2",lean left
+center,"lean left
+
+This article contains political bias. It",lean left
+left,"lean left
+
+This article does not contain any bias",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article expresses political bias towards which",lean left
+lean right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+This example demonstrates the correct classification.",lean left
+lean left,"lean left
+
+Label: left
+
+Explanation: This",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: left
+
+Label: right",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+Sure, based on the content of",lean left
+left,"lean left
+
+Label: lean left
+
+I apologize",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article discusses politics and science.",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+Sure, let me analyze the article",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+Label: lean left
+
+My thought",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+This example demonstrates the same type of",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article contains no explicit or implicit",lean left
+left,"lean left
+
+This article expresses political bias towards the",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+This article does not contain any bias",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+This article has no explicit political bias",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+To determine the political bias of the",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+Example 2:
+
+Title: '",lean left
+lean right,"lean left
+
+This article does not contain any biased",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+left,"lean right
+
+Label: right
+
+Label: left",lean right
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+This article does not contain any biased",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+I apologize",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article has a political bias classified",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+This article expresses a strong preference for",lean left
+lean right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+To classify the political bias of the",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+center,"lean left
+
+This example demonstrates the correct classification.",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"left
+
+Example 2:
+
+Title: Trump’s",left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"left
+
+Please provide your answer quickly and accurately without",left
+right,"lean left
+
+This article does not contain any political",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean right
+
+Label: lean right
+
+Label:",lean right
+left,"lean left
+
+This article does not contain any biased",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+This example demonstrates a clear case of",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+This article does not contain any overt",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+center,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+right,"left
+
+Label: lean left
+
+Label: right",lean left
+lean right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"lean left
+
+This article does not contain any overt",lean left
+lean left,"lean left
+
+Label: left
+
+Explanation: The",lean left
+left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article appears to contain political bias",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article contains no explicit or implicit",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+This article expresses a strong preference for",lean left
+left,"lean left
+
+This article does not contain any overt",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean right,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+Bias: lean right
+
+Bias:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+right,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Sure, I can classify the political",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean right
+
+Label: left
+
+Label: center",lean right
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+I apologize",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example demonstrates a different type of",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This article expresses political bias towards which",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+This article expresses political bias towards the",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+My classification",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+This article does not contain enough information",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any overt",lean left
+lean left,"lean left
+
+Example 2:
+
+Title: New",lean left
+lean right,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Sure, let me analyze the article",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: left
+
+Explanation: The",lean left
+lean right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+This article has a political bias.",lean left
+left,"lean left
+
+Label: left
+
+Explanation: The",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Sure, let me analyze the article",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean right
+
+To determine whether the article contains political",lean right
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This example demonstrates a different type of",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+This article contains no political bias.",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+lean left,"lean left
+
+This article does not contain any overt",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Label: lean left
+
+I apologize",lean left
+left,"lean left
+
+This article expresses support for Donald Trump",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+Label: left
+
+Explanation: The",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Explanation of label choice: The article",lean left
+right,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+This example demonstrates a high level of",lean left
+right,"lean left
+
+To view social media, you must",lean left
+left,"lean left
+
+This classification is correct. The article",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+Label: lean left
+
+My classification",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Thank you for providing the article.",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+left,"lean left
+
+Sure, let me analyze the article",lean left
+lean left,"lean left
+
+This article expresses a strong left-leaning",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+lean right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any explicit",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+This article contains political bias. To",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+left,"left
+
+Label: left
+
+Label: lean left",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+My classification",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This article does not contain any political",lean left
+center,"lean left
+
+This example shows a different type of",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+center,"lean left
+
+This article contains no overtly negative",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+This article contains no explicit or implicit",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean right,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+I apologize",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+This article expresses a negative sentiment towards",lean left
+lean right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+center,"lean left
+
+This article does not contain any political",lean left
+right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article contains no political bias.",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+Label: lean left
+
+My classification",lean left
+right,"lean left
+
+This article does not contain any biased",lean left
+center,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+lean left,"lean left
+
+This example demonstrates the correct classification.",lean left
+lean right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+This article",lean left
+lean right,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Sure, based on the content of",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+lean right,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+Label: left
+
+Explanation: The",lean left
+left,"lean left
+
+This article does not contain any biased",lean left
+lean left,"lean left
+
+Label: lean left
+
+My classification",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+right,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article does not contain any overt",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This article does not contain any overt",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This article does not contain any explicit",lean left
+left,"lean left
+
+Example 2:
+
+Title: Trump",lean left
+center,"lean left
+
+This example demonstrates a clear case of",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This article does not contain any political",lean left
+lean left,"lean left
+
+Label: lean left
+
+This article",lean left
+center,"lean left
+
+This example demonstrates a different type of",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+This article",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+left,"lean left
+
+This example demonstrates a clear instance of",lean left
+lean left,"lean left
+
+Label: lean left
+
+My thought",lean left
+center,"lean left
+
+Label: left
+
+This article does",lean left
+right,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+This example demonstrates the correct classification.",lean left
+lean left,"lean left
+
+This article does not contain any political",lean left
+left,"lean left
+
+This article does not contain any bias",lean left
+left,"lean left
+
+This article contains political bias. The",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left

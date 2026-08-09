@@ -1,0 +1,3141 @@
+True Label,Raw Prediction,Parsed Prediction
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+Bias: right
+Bias: center",lean left
+left,"lean left
+
+Explanation: The article contains several instances",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Example 2:
+
+Title: '",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"lean left
+
+Explanation: The article contains strong language",lean left
+left,"lean left
+
+Explanation: The article discusses a man",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article discusses constitutional amendments",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+To analyze the political bias of the",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation for the classifier: The article",lean left
+lean left,"lean left
+
+Explanation: The article discusses a situation",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Please explain the classification.
+The classification",lean left
+left,"lean left
+
+Explanation: The article discusses Governor Tony",lean left
+center,"lean left
+
+Please provide your answer quickly and correctly",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Assistant: lean left
+You're",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article contains strong language",lean left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article discusses the phenomenon",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation: The article contains no overt",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation: The article discusses Elon Musk",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation: The article contains strong language",lean left
+center,"lean left
+
+Explanation: The article discusses a superhero",lean left
+lean left,"lean left
+
+Classification: lean left
+
+In this",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Explanation for the answer: The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+right,"lean left
+
+Bias: right
+
+Bias: left",lean left
+lean left,"lean left
+
+Explanation: The article discusses a murder",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Please briefly describe the text.
+The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Bias: right
+
+Bias: right",lean left
+lean right,"right
+
+Please explain your answer.
+To determine the",right
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation: The article contains negative language",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Explanation: The article discusses a lawsuit",lean left
+lean right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Assistant: lean left
+You're",lean left
+lean left,"lean left
+
+Explanation: The article contains no explicit",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Please explain your reasoning.",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Explanation: The article presents a strong",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Article:
+George Will's full Washington",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"lean left
+
+Bias: right
+
+Bias: lean",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+You're",lean left
+right,"lean left
+
+Please provide your answer and justification.",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+The article",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: lean",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"lean left
+
+Explanation: The article contains strong language",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Explanation: The article discusses a police",lean left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+lean left,"lean left
+
+Explanation: The article discusses Cecile",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article presents a balanced",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Article:
+The Republican candidate for Virginia",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Bias: right
+
+Bias: left",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Explanation: The article presents a balanced",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+To classify the political bias of the",lean left
+right,"lean left
+
+To classify the political bias of the",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Explanation: The article discusses a pardon",lean left
+center,"lean left
+
+Bias: right
+
+Bias: left",lean left
+lean left,"lean left
+
+Explanation: The article discusses President Trump",lean left
+right,"lean left
+
+To view social media enable social cookies",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Label: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Article:
+President-elect Donald Trump has",lean left
+left,"lean left
+
+Explanation: The article discusses Elon Musk",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation of answer choices:
+
+- left",lean left
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Explanation: The article discusses a man",lean left
+lean right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Please provide your answer quickly! ...",lean left
+left,"lean left
+
+Please explain your reasoning.
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please explain your reasoning.
+The article",lean left
+lean right,"right
+
+Example 1:
+
+Title: The Best",right
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Article:
+The article discusses the proposed",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Explanation: The article discusses the pard",lean left
+right,"lean left
+
+Explanation: The article discusses Joe Biden",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Explanation: The article contains several statements",lean left
+center,"lean left
+
+Explanation: The article discusses the potential",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Please provide your classification. To determine",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article discusses the negative",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article contains strong language",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Please explain your reasoning.",lean left
+lean right,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+lean left,"lean left
+
+Explanation: The article discusses President Trump",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean right,"lean left
+
+Explanation: The article discusses a lawsuit",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Please provide your answer quickly! ...",lean left
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Explanation: The article contains negative language",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Label: lean left
+
+Label:",lean left
+right,"lean left
+
+Explanation: The article discusses a case",lean left
+left,"lean left
+
+Explanation: The article discusses Andie",lean left
+left,"lean left
+
+Explanation: The article discusses President-elect",lean left
+left,"lean left
+
+Explanation: The article contains no explicit",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Bias: right
+
+Bias: left",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Please explain your reasoning.",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Explanation: The article discusses a new",lean left
+lean right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean left,"right
+
+Classification: lean left
+
+Explanation: The",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Please provide the English translation of the",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+To determine the political bias of the",lean left
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+To classify the political bias of the",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Article:
+The Trump administration has announced",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article presents a balanced",lean left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+lean right,"right
+
+Label: center
+
+Label: left",left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article does not contain",lean left
+center,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Explanation: The article contains negative comments",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Explanation: The article contains a strong",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Explanation: The article discusses allegations of",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Article:
+The U.S. Supreme",lean left
+lean left,"lean left
+
+To analyze the political bias of the",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Please provide your answer quickly! ...",lean left
+left,"lean left
+
+Article:
+In a rare display of",lean left
+right,"lean left
+
+Please provide the classification for the given",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Explanation: The article contains negative comments",lean left
+right,"lean left
+
+Explanation: The article contains strong language",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Explanation for the answer to the question",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation: The article discusses how Google",lean left
+right,"lean left
+
+Explanation: The article discusses the housing",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+To determine whether the article contains political",lean left
+left,"lean left
+
+Please explain the classification. The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Explanation: The article contains no overt",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Classification: lean left
+
+Justification",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Explanation: The article discusses companies offering",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: lean",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Bias: right
+
+Bias: center",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Please explain your reasoning.",lean left
+lean left,"lean left
+
+Explanation of answer choices:
+
+- left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Explanation: The article discusses protests in",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Please provide your answer quickly! I",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Explanation: The article contains no overt",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please explain your answer.
+
+To classify",lean left
+left,"lean left
+
+Please explain the classification. I classified",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Article:
+The article discusses the assassination",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Explanation: The article contains strong language",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Explanation: The article contains negative language",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article presents a balanced",lean left
+lean right,"lean left
+
+Explanation: The article contains negative comments",lean left
+right,"lean left
+
+Explanation of the classification decision:
+
+The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Explanation: The article discusses Elon Musk",lean left
+lean right,"lean left
+
+Explanation: The article discusses the decision",lean left
+center,"lean left
+
+Please provide your answer quickly and be",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article discusses a court",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"right
+
+Classification: Right
+
+Justification: The",right
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+To determine the political bias of the",lean left
+right,"lean left
+
+Explanation: The article contains negative language",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Article:
+The U.S. Army",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Example 2:
+
+Title: '",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Explanation: The article discusses Senator El",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please explain your reasoning.
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article discusses a Republican",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Explanation: The article contains no overt",lean left
+left,"lean left
+
+Explanation: The article discusses President Donald",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+You are an AI assistant. Provide",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Article:
+The U.S. Supreme",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Justification",lean left
+left,"lean left
+
+Explanation: The article discusses the dis",lean left
+left,"lean left
+
+Classification: lean left
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Please provide the classification label for the",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article contains several statements",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer quickly and entirely",lean left
+left,"lean left
+
+Explanation: The article discusses Brad Pitt",lean left
+left,"lean left
+
+Explanation: The article discusses Republican attempts",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Please explain your reasoning.",lean left
+left,"lean left
+
+Please explain your reasoning.
+- To",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Explanation: The article contains negative language",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Please explain the classification. The article",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+To view social media, enable social",lean left
+left,"lean left
+
+Please explain your classification. To classify",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+left,"lean left
+
+Explanation: The article contains strong language",lean left
+right,"lean left
+
+Explanation: The article discusses a court",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please briefly describe the article.
+The",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please explain your reasoning.
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Example 2:
+
+Title: New",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Justification",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Explanation: The article discusses the controversy",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Bias: right
+
+Bias: left",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Please provide me with another example of",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation: The article contains no overt",lean left
+center,"lean left
+
+Explanation: The article discusses a new",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Please explain the classification.
+The article",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+center,"lean left
+
+Explanation: The article presents a case",lean left
+left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Explanation: The article discusses the Justice",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article does not contain",lean left
+left,"lean left
+
+Please explain your reasoning.
+The article",lean left
+lean left,"lean left
+
+Bias: right
+
+Bias: left",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please explain your reasoning.",lean left
+left,"lean left
+
+Explanation: The article presents a biased",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Explanation: The article contains several instances",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Explanation: The article contains no overt",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean right,"lean left
+
+Explanation: The article contains no overt",lean left
+left,"lean left
+
+Explanation: The article discusses a bill",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+right,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article discusses deep cuts",lean left
+lean right,"lean left
+
+Explanation: The article contains negative language",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+center,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Please explain the classification. To determine",lean left
+lean left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article contains a strong",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Please provide your answer quickly and be",lean left
+center,"lean left
+
+Explanation: The article discusses the documentary",lean left
+left,"lean left
+
+Article:
+The 202",lean left
+left,"lean left
+
+Please explain your reasoning.",lean left
+left,"lean left
+
+Classification: lean left
+
+This article",lean left
+left,"lean left
+
+Assistant: lean left
+
+This article",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+center,"lean left
+
+Bias: right
+
+Bias: center",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article contains strong language",lean left
+left,"lean left
+
+Assistant: lean left
+
+The article",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+lean right,"lean left
+
+Classification: lean left
+
+Classification:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Bias: right
+
+Bias: left",lean left
+left,"lean left
+
+Classification: lean left
+
+Justification",lean left
+left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article contains strong language",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+center,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+right,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Explanation: The article discusses a political",lean left
+lean left,"lean left
+
+Classification: lean left
+
+Explanation:",lean left
+left,"lean left
+
+Classification: lean left
+
+Explain",lean left
+left,"lean left
+
+Please explain your reasoning.
+The article",lean left
+left,"lean left
+
+Label: lean left
+
+Label:",lean left
+left,"lean left
+
+Classification: lean left
+
+Classification:",lean left
